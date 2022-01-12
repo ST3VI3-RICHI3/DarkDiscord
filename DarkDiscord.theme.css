@@ -1,7 +1,7 @@
 /**
  * @name Dark Discord
  * @author ST3VI3 RICHI3
- * @version 1.1.6
+ * @version 1.1.7
  * @description A simple darker theme for discord.
 */
 
@@ -24,9 +24,9 @@ Theese features are subject to change and may vary in quality.
 @import url(https://st3vi3-richi3.github.io/DarkDiscord/DarkDiscordLegacySupport.theme.css);
 
 :root {
-    --BGR:  0;
-    --BGG:  0;
-    --BGB:  0;
+    --BGR:  10;
+    --BGG:  10;
+    --BGB:  10;
     --TextColor: rgb(255, 255, 255);
 }
 

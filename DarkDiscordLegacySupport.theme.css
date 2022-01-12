@@ -23,3 +23,333 @@
 }
 
 /* ------------- */
+
+/* --LOADING / CONNECTING-- */
+
+.container-16j22k {
+    background-color: rgb(var(--BGR),var(--BGG),var(--BGB));
+    color: var(--TextColor);
+}
+.container-16j22k .keybindShortcut-1BD6Z1 span {
+    background-color: rgb(calc(var(--BGR) + 15), calc(var(--BGG) + 15), calc(var(--BGB) + 15));
+    box-shadow: inset 0 -4px 0 rgb(calc(var(--BGR) + 22), calc(var(--BGG) + 24), calc(var(--BGB) + 27));
+    
+}
+.container-16j22k .problemsText-1Yx-Kl {
+    color: var(--TextColor);
+}
+
+/* ------------------------ */
+
+/* --SERVER LIST-- */
+
+.selected-bZ3Lue .childWrapper-anI2G9 {
+    /*Top left discord logo*/
+    background-color: rgb(calc(var(--BGR) + 40), calc(var(--BGG) + 40), calc(var(--BGB) + 40)) !important;
+}
+.wrapper-1BJsBx .childWrapper-anI2G9 {
+    background: rgb(calc(var(--BGR) + 25), calc(var(--BGG) + 25), calc(var(--BGB) + 25));
+}
+
+.scroller-1Bvpku {
+    /*Server list*/
+    background-color: rgb(calc(var(--BGR) + 10), calc(var(--BGG) + 10), calc(var(--BGB) + 10));
+}
+.expandedFolderBackground-1cujaW, .expandedFolderBackground-3ZDF05 {
+    /*Expanded folder background*/
+    background-color: rgb(calc(var(--BGR) + 1), calc(var(--BGG) + 1), calc(var(--BGB) + 1));
+}
+.expandedFolderIconWrapper-Huv7rA, .expandedFolderIconWrapper-3fmTfW {
+    /*Expanded folder icon*/
+    background-color: rgb(calc(var(--BGR) + 20), calc(var(--BGG) + 20), calc(var(--BGB) + 25));
+}
+.unreadMentionsBar-1Bu1dC {
+    /*Unread messages*/
+    background-color: rgb(calc(var(--BGR) + 175), calc(var(--BGG) + 25), calc(var(--BGB) + 25));
+}
+
+/* --------------- */
+
+/* --SERVER-- */
+
+.sidebar-2K8pFh, .sidebar-1tnWFu {
+    border-radius: 0px !important;
+}
+.header-2V-4Sw, .container-1taM1r {
+    /*Server name panel*/
+    background-color: rgb(calc(var(--BGR) + 7), calc(var(--BGG) + 7), calc(var(--BGB) + 7));
+}
+.clickable-25tGDB .header-2V-4Sw:hover, .selected-31Nl7x .header-2V-4Sw {
+    background-color: rgb(calc(var(--BGR) + 15), calc(var(--BGG) + 15), calc(var(--BGB) + 15));
+}
+.bannerVisible-2ZE_qG {
+    z-index: 2;
+}
+.hasBanner-2SrLR3 .header-2V-4Sw, .hasBanner-2SrLR3 .header-2V-4Sw:hover {
+    background-color: transparent;
+}
+
+.container-1r6BKw.themed-ANHk51 {
+    /*Channel title Panel*/
+    background-color: rgb(calc(var(--BGR) + 4), calc(var(--BGG) + 4), calc(var(--BGB) + 4));
+}
+.children-19S4PO:after {
+    visibility: hidden;
+}
+
+.channelNotice-1-XFjC {
+    /* Server tips */
+    background-color: rgb(calc(var(--BGR) + 10), calc(var(--BGG) + 10), calc(var(--BGB) + 10)) !important;
+}
+.scroller-RmtA4e {
+    /*Server channels panel*/
+    background-color: rgb(calc(var(--BGR) + 3), calc(var(--BGG) + 3), calc(var(--BGB) + 3));
+}
+.sidebar-2K8pFh .unreadBar-3t3sYc {
+    /*Unreads bar*/
+    background-color: rgb(calc(var(--BGR) + 25), calc(var(--BGG) + 25), calc(var(--BGB) + 25));
+}
+
+.container-2wlB3z, .members-1998pB, .members-1998pB>div, .membersWrap-2h-GB4 {
+    /*"Server Members panel*/
+    background-color: rgb(calc(var(--BGR) + 3), calc(var(--BGG) + 3), calc(var(--BGB) + 3));
+}
+
+.customScroller-26gWhv {
+    /* Audit Log */
+    background-color: rgb(calc(var(--BGR) + 5), calc(var(--BGG) + 5), calc(var(--BGB) + 5));
+}
+
+.card-4s8auQ, .settingCard-3w2mVL .cardContent-qqqwo8 {
+    background-color: rgb(calc(var(--BGR) + 15), calc(var(--BGG) + 15), calc(var(--BGB) + 15));
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+.titleContainer-2CXtJo, .stickyHeader-hH_ZLl {
+    background-color: rgb(calc(var(--BGR) + 5), calc(var(--BGG) + 5), calc(var(--BGB) + 5));
+}
+
+/* Server Boost Menu */
+.perksModal-fSYqOq {
+    background-color: rgb(calc(var(--BGR) + 10), calc(var(--BGG) + 10), calc(var(--BGB) + 10)) !important;
+}
+.perksModal-fSYqOq .ctaBar-2UsjF2 {
+    background-color: rgb(var(--BGR), var(--BGG), var(--BGB));
+}
+.perksModal-fSYqOq .ctaBar-2UsjF2 .giftAction-yhDLaW {
+    background-color: rgb(calc(var(--BGR) + 25), calc(var(--BGG) + 25), calc(var(--BGB) + 25)) !important;
+}
+.perksModal-fSYqOq .ctaBar-2UsjF2 .giftAction-yhDLaW:hover {
+    background-color: rgb(calc(var(--BGR) + 40), calc(var(--BGG) + 40), calc(var(--BGB) + 40)) !important;
+}
+.perksModal-fSYqOq .barBackground-2EEiLw {
+    background-color: rgb(var(--BGR), var(--BGG), var(--BGB)) !important;
+}
+.perksModal-fSYqOq .tierMarkerBackground-3q29am {
+    background-color: rgb(calc(var(--BGR) + 20), calc(var(--BGG) + 20), calc(var(--BGB) + 20));
+}
+
+/* ---------- */
+
+/* --CHAT-- */
+
+/*Main chat*/
+.chatContent-a9vAAp, .wrapper-3vR61M, .wrapper-3vR61M>div {
+    background-color: rgb(var(--BGR),var(--BGG),var(--BGB));
+}
+/*Main chat text*/
+.markup-2BOw-j {
+    color: var(--TextColor);
+}
+
+/*One line code block*/
+.markup-2BOw-j .inline {
+    background-color: rgb(calc(var(--BGR) + 15), calc(var(--BGG) + 15), calc(var(--BGB) + 15));
+}
+
+/* Code block */
+.chatContent-a9vAAp code {
+    background-color: rgb(calc(var(--BGR) + 15), calc(var(--BGG) + 15), calc(var(--BGB) + 15));
+}
+
+/* File Preveiw (EG: *.txt) */
+.textContainer-C0szpm {
+    background-color: rgb(calc(var(--BGR) + 15), calc(var(--BGG) + 15), calc(var(--BGB) + 15));
+}
+.messageAttachment-1aDidq .embedWrapper-lXpS3L .footer-2yA7Ep {
+    background-color: rgb(calc(var(--BGR) + 25), calc(var(--BGG) + 25), calc(var(--BGB) + 25));
+}
+
+/*Embed*/
+.container-1ov-mD .embed-IeVjo6 {
+    background-color: rgb(calc(var(--BGR) + 10), calc(var(--BGG) + 10), calc(var(--BGB) + 10));
+}
+
+/* Thread */
+.message-2qnXI6 .container-3hZ-gs {
+    background-color: rgb(calc(var(--BGR) + 10), calc(var(--BGG) + 10), calc(var(--BGB) + 10));
+}
+
+/*Message typing area*/
+.scrollableContainer-2NUZem {
+    background-color: rgb(calc(var(--BGR) + 20), calc(var(--BGG) + 20), calc(var(--BGB) + 20));
+}
+.form-2fGMdU:before{
+    visibility: hidden;
+}
+.attachedBars-tZDmyV, .attachedBars-tZDmyV .replyBar-1YLQ2F {
+    background-color: rgb(calc(var(--BGR) + 10), calc(var(--BGG) + 10), calc(var(--BGB) + 10));
+}
+.jumpToPresentBar-G1R9s6 {
+    background-color: rgb(calc(var(--BGR) + 10), calc(var(--BGG) + 10), calc(var(--BGB) + 10));
+}
+.threadSuggestionBar-2ufK2Z {
+    background-color: rgb(calc(var(--BGR) + 10), calc(var(--BGG) + 10), calc(var(--BGB) + 10));
+}
+
+/*@ mention / emoji autocomplete*/
+.autocomplete-1vrmpx {
+    background-color: rgb(calc(var(--BGR) + 10), calc(var(--BGG) + 10), calc(var(--BGB) + 10)) !important;
+}
+.autocomplete-1vrmpx .selected-1Tbx07 {
+    background-color: rgb(calc(var(--BGR) + 25), calc(var(--BGG) + 25), calc(var(--BGB) + 25)) !important;
+}
+
+/*Message options*/
+.buttonContainer-DHceWr .buttons-cl5qTG .wrapper-2aW0bm {
+    background-color: rgb(calc(var(--BGR) + 25), calc(var(--BGG) + 25), calc(var(--BGB) + 25));
+}
+
+/*Upload / Spotify or game invite*/
+.menu-3sdvDG .scroller-3BxosC {
+    background-color: rgb(calc(var(--BGR) + 10), calc(var(--BGG) + 10), calc(var(--BGB) + 10));
+    border-radius: 4px;
+}
+
+/*Gif / Emoji picker / Sticker*/
+.contentWrapper-SvZHNd, .wrapper-1-Fsb8 {
+    background-color: rgb(calc(var(--BGR) + 15), calc(var(--BGG) + 15), calc(var(--BGB) + 15));
+}
+.contentWrapper-SvZHNd .wrapper-2Gsate .scroller-3gAZLs, .emojiPicker-3PwZFl .wrapper-2Gsate .scroller-3gAZLs {
+    background-color: rgb(calc(var(--BGR) + 5), calc(var(--BGG) + 5), calc(var(--BGB) + 5)) !important;
+}
+.contentWrapper-SvZHNd .inspector-S2gM3e, .contentWrapper-SvZHNd .unicodeShortcut-15J8Ck, .emojiPicker-3PwZFl .inspector-S2gM3e, .emojiPicker-3PwZFl .unicodeShortcut-15J8Ck {
+    background-color: rgb(calc(var(--BGR) + 20), calc(var(--BGG) + 20), calc(var(--BGB) + 20)) !important;
+}
+#emoji-picker-tab-panel .bodyWrapper-3G0FZZ .scroller-3gAZLs, #emoji-picker-tab-panel .bodyWrapper-3G0FZZ .wrapper-1-Fsb8, .contentWrapper-SvZHNd .listWrapper-hig339, .contentWrapper-SvZHNd .wrapper-1-Fsb8 {
+    background-color: rgb(var(--BGR), var(--BGG), var(--BGB)) !important;
+}
+#emoji-picker-tab-panel .unicodeShortcut-15J8Ck, .contentWrapper-SvZHNd .standardStickerShortcut-3iRT0y {
+    background-color: rgb(calc(var(--BGR) + 15), calc(var(--BGG) + 15), calc(var(--BGB) + 15)) !important;
+}
+
+/*Uploading file*/
+.markup-2BOw-j .attachment-33OFj0 {
+    background-color: rgb(calc(var(--BGR) + 20), calc(var(--BGG) + 20), calc(var(--BGB) + 20));
+}
+/* Attatchments */
+.embedWrapper-lXpS3L {
+    background-color: rgb(calc(var(--BGR) + 10), calc(var(--BGG) + 10), calc(var(--BGB) + 10));
+    border-color: rgb(calc(var(--BGR) + 5), calc(var(--BGG) + 5), calc(var(--BGB) + 5))
+}
+
+/* Image / Video Background */
+.chatContent-a9vAAp .imageWrapper-2p5ogY, .chatContent-a9vAAp .imageWrapper-2p5ogY .video-8eMOth {
+    background-color: rgb(var(--BGR),var(--BGG),var(--BGB));
+}
+
+/* Server invites */
+.wrapper-35wsBm {
+    background-color: rgb(calc(var(--BGR) + 15), calc(var(--BGG) + 15), calc(var(--BGB) + 15));
+}
+
+/* NSFW warning */
+.scroller-11cdZM, .scroller-11cdZM .description-2ydcYn {
+    background-color: rgb(var(--BGR),var(--BGG),var(--BGB));
+    color: var(--TextColor);
+}
+.scroller-11cdZM .colorPrimary-3b3xI6 {
+    background-color: rgb(calc(var(--BGR) + 25), calc(var(--BGG) + 25), calc(var(--BGB) + 25)) !important;
+}
+.scroller-11cdZM .colorPrimary-3b3xI6:hover {
+    background-color: rgb(calc(var(--BGR) + 20), calc(var(--BGG) + 20), calc(var(--BGB) + 20)) !important;
+}
+
+/*No channel*/
+.noChannel-3LgMRp {
+    background-color: rgb(var(--BGR),var(--BGG),var(--BGB));
+}
+
+/*Delete Message*/
+.message-2qRu38 {
+    background-color: rgb(var(--BGR),var(--BGG),var(--BGB)) !important;
+}
+
+/* -------- */
+
+/* --DM AREA-- */
+
+/*Find or start a conversation*/
+.searchBar-6Kv8R2, .base-3dtUhz {
+    background-color: rgb(calc(var(--BGR) + 10), calc(var(--BGG) + 10), calc(var(--BGB) + 10));
+}
+/*DM List*/
+.scroller-1JbKMe {
+    background-color: rgb(calc(var(--BGR) + 3), calc(var(--BGG) + 3), calc(var(--BGB) + 3));
+}
+/* ----------- */
+
+/*-- User / Voice panel-- */
+
+/* Voice Connected Panel */
+.panels-j1Uci_ {
+    background-color: rgb(calc(var(--BGR) + 6), calc(var(--BGG) + 6), calc(var(--BGB) + 5));
+}
+
+/* Stream / Webcam Buttons */
+.actionButtons-14eAc_ [aria-label="Share Your screen"], .actionButtons-14eAc_ [aria-label="Turn on camera"] {
+    background-color: rgb(calc(var(--BGR) + 25), calc(var(--BGG) + 25), calc(var(--BGB) + 25)) !important;
+}
+.actionButtons-14eAc_ [aria-label="Share Your screen"]:hover, .actionButtons-14eAc_ [aria-label="Turn on camera"]:hover {
+    background-color: rgb(calc(var(--BGR) + 20), calc(var(--BGG) + 20), calc(var(--BGB) + 20)) !important;
+}
+.actionButtons-14eAc_ .buttonActive-3FrkXp  {
+    background-color: rgb(calc(var(--BGR) + 50), calc(var(--BGG) + 125), calc(var(--BGB) + 50)) !important;
+}.actionButtons-14eAc_ .buttonActive-3FrkXp:hover  {
+    background-color: rgb(calc(var(--BGR) + 40), calc(var(--BGG) + 115), calc(var(--BGB) + 40)) !important;
+}
+
+
+/* ---------------------- */
+
+/* --SETTINGS PAGE-- */
+
+/* Sidebar  */
+.sidebarRegionScroller-3MXcoP {
+    background-color: rgb(calc(var(--BGR) + 10), calc(var(--BGG) + 10), calc(var(--BGB) + 10));
+}
+
+/* Settings Content */
+.contentRegionScroller-26nc1e {
+    background-color: rgb(calc(var(--BGR) + 5), calc(var(--BGG) + 5), calc(var(--BGB) + 5));
+}
+
+/*My account*/
+.accountProfileCard-1XCH88 {
+    background-color: rgb(calc(var(--BGR) + 15), calc(var(--BGG) + 15), calc(var(--BGB) + 15));
+}
+.fieldList-21DyL8, .background-1QDuV2 {
+    background-color: rgb(calc(var(--BGR) + 1), calc(var(--BGG) + 1), calc(var(--BGB) + 1));
+}
+
+/*Compact mode preview*/
+.preview-2nSL_2 {
+    background-color: rgb(var(--BGR), var(--BGG), calc(--BGB));
+}
+
+.info-1VyQPT>span:nth-of-type(3)::after {
+    white-space: pre-wrap;
+    content: "\a Dark Discord V1.1.81";
+}
+
+/* -------------------------*/

@@ -35,16 +35,16 @@ BG Accent: rgb(79, 84, 92)
 
 /* --LOADING / CONNECTING-- */
 
-.container-16j22k, .container-2RRFHK {
+.container-2RRFHK {
     background-color: rgb(var(--BGR),var(--BGG),var(--BGB));
     color: var(--TextColor);
 }
-.container-16j22k .keybindShortcut-1BD6Z1 span, .container-2RRFHK .keybindShortcut-3zF1P9 span {
+.container-2RRFHK .keybindShortcut-3zF1P9 span {
     background-color: rgb(calc(var(--BGR) + 15), calc(var(--BGG) + 15), calc(var(--BGB) + 15));
     box-shadow: inset 0 -4px 0 rgb(calc(var(--BGR) + 22), calc(var(--BGG) + 24), calc(var(--BGB) + 27));
     
 }
-.container-16j22k .problemsText-1Yx-Kl, .container-2RRFHK .problemsText-1DBHh5 {
+.container-2RRFHK .problemsText-1DBHh5 {
     color: var(--TextColor);
 }
 
@@ -60,27 +60,27 @@ BG Accent: rgb(79, 84, 92)
 
 /* --SERVER LIST-- */
 
-.selected-bZ3Lue .childWrapper-anI2G9 {
+.scroller-3X7KbA .selected-1Drb7Z .childWrapper-1j_1ub {
     /*Top left discord logo*/
     background-color: rgb(calc(var(--BGR) + 40), calc(var(--BGG) + 40), calc(var(--BGB) + 40)) !important;
 }
-.wrapper-1BJsBx .childWrapper-anI2G9 {
+.scroller-3X7KbA .wrapper-3kah-n .childWrapper-1j_1ub {
     background: rgb(calc(var(--BGR) + 25), calc(var(--BGG) + 25), calc(var(--BGB) + 25));
 }
 
-.scroller-1Bvpku {
+.scroller-3X7KbA {
     /*Server list*/
     background-color: rgb(calc(var(--BGR) + 10), calc(var(--BGG) + 10), calc(var(--BGB) + 10));
 }
-.expandedFolderBackground-1cujaW, .expandedFolderBackground-3ZDF05 {
+.scroller-3X7KbA .expandedFolderBackground-1kSAf6, .expandedFolderBackground-3ZDF05 {
     /*Expanded folder background*/
     background-color: rgb(calc(var(--BGR) + 1), calc(var(--BGG) + 1), calc(var(--BGB) + 1));
 }
-.expandedFolderIconWrapper-Huv7rA, .expandedFolderIconWrapper-3fmTfW {
+.scroller-3X7KbA .expandedFolderIconWrapper-3RwQpD, .expandedFolderIconWrapper-3fmTfW {
     /*Expanded folder icon*/
     background-color: rgb(calc(var(--BGR) + 20), calc(var(--BGG) + 20), calc(var(--BGB) + 25));
 }
-.unreadMentionsBar-1Bu1dC {
+.unreadMentionsBar-ZXXoOH {
     /*Unread messages*/
     background-color: rgb(calc(var(--BGR) + 175), calc(var(--BGG) + 25), calc(var(--BGB) + 25));
 }
@@ -89,28 +89,28 @@ BG Accent: rgb(79, 84, 92)
 
 /* --SERVER-- */
 
-.sidebar-2K8pFh {
+.sidebar-1tnWFu {
     border-radius: 0px !important;
 }
-.header-2V-4Sw, .container-1taM1r {
+.header-3OsQeK, .container-1taM1r {
     /*Server name panel*/
     background-color: rgb(calc(var(--BGR) + 7), calc(var(--BGG) + 7), calc(var(--BGB) + 7));
 }
-.clickable-25tGDB .header-2V-4Sw:hover, .selected-31Nl7x .header-2V-4Sw {
+.clickable-vvKY2q .header-3OsQeK:hover, .selected-31Nl7x .header-2V-4Sw {
     background-color: rgb(calc(var(--BGR) + 15), calc(var(--BGG) + 15), calc(var(--BGB) + 15));
 }
-.bannerVisible-2ZE_qG {
+.bannerVisible-Vkyg1I {
     z-index: 2;
 }
-.hasBanner-2SrLR3 .header-2V-4Sw, .hasBanner-2SrLR3 .header-2V-4Sw:hover {
+.hasBanner-2IrYih .header-3OsQeK, .hasBanner-2IrYih .header-3OsQeK:hover {
     background-color: transparent;
 }
 
-.container-1r6BKw.themed-ANHk51 {
+.container-ZMc96U.themed-Hp1KC_ {
     /*Channel title Panel*/
     background-color: rgb(calc(var(--BGR) + 4), calc(var(--BGG) + 4), calc(var(--BGB) + 4));
 }
-.children-19S4PO:after {
+.container-ZMc96U.themed-Hp1KC_ .children-3xh0VB:after {
     visibility: hidden;
 }
 
@@ -118,21 +118,21 @@ BG Accent: rgb(79, 84, 92)
     /* Server tips */
     background-color: rgb(calc(var(--BGR) + 10), calc(var(--BGG) + 10), calc(var(--BGB) + 10)) !important;
 }
-.scroller-RmtA4e {
+.sidebar-1tnWFu .scroller-1ox3I2 {
     /*Server channels panel*/
     background-color: rgb(calc(var(--BGR) + 3), calc(var(--BGG) + 3), calc(var(--BGB) + 3));
 }
-.sidebar-2K8pFh .unreadBar-3t3sYc {
+.sidebar-1tnWFu .unreadBar-elBRZx {
     /*Unreads bar*/
     background-color: rgb(calc(var(--BGR) + 25), calc(var(--BGG) + 25), calc(var(--BGB) + 25));
 }
 
-.container-2wlB3z, .members-1998pB, .members-1998pB>div, .membersWrap-2h-GB4 {
+.container-2o3qEW, .members-3WRCEx, .members-3WRCEx>div, .membersWrap-3NUR2t {
     /*"Server Members panel*/
     background-color: rgb(calc(var(--BGR) + 3), calc(var(--BGG) + 3), calc(var(--BGB) + 3));
 }
 
-.customScroller-26gWhv {
+.customScroller-m1-jZn {
     /* Audit Log */
     background-color: rgb(calc(var(--BGR) + 5), calc(var(--BGG) + 5), calc(var(--BGB) + 5));
 }
@@ -171,21 +171,21 @@ BG Accent: rgb(79, 84, 92)
 /* --CHAT-- */
 
 /*Main chat*/
-.chatContent-a9vAAp, .wrapper-3vR61M, .wrapper-3vR61M>div {
+.chatContent-3KubbW, .wrapper-3HVHpV, .wrapper-3HVHpV>div {
     background-color: rgb(var(--BGR),var(--BGG),var(--BGB));
 }
 /*Main chat text*/
-.markup-2BOw-j {
+.markup-eYLPri {
     color: var(--TextColor);
 }
 
 /*One line code block*/
-.markup-2BOw-j .inline {
+.markup-eYLPri .inline {
     background-color: rgb(calc(var(--BGR) + 15), calc(var(--BGG) + 15), calc(var(--BGB) + 15));
 }
 
 /* Code block */
-.chatContent-a9vAAp code {
+.chatContent-3KubbW code {
     background-color: rgb(calc(var(--BGR) + 15), calc(var(--BGG) + 15), calc(var(--BGB) + 15));
 }
 
@@ -208,10 +208,10 @@ BG Accent: rgb(79, 84, 92)
 }
 
 /*Message typing area*/
-.scrollableContainer-2NUZem {
+.scrollableContainer-15eg7h {
     background-color: rgb(calc(var(--BGR) + 20), calc(var(--BGG) + 20), calc(var(--BGB) + 20));
 }
-.form-2fGMdU:before{
+.form-3gdLxP:before{
     visibility: hidden;
 }
 .attachedBars-tZDmyV, .attachedBars-tZDmyV .replyBar-1YLQ2F {
@@ -261,7 +261,7 @@ BG Accent: rgb(79, 84, 92)
 }
 
 /*Uploading file*/
-.markup-2BOw-j .attachment-33OFj0 {
+.markup-eYLPri .attachment-33OFj0 {
     background-color: rgb(calc(var(--BGR) + 20), calc(var(--BGG) + 20), calc(var(--BGB) + 20));
 }
 /* Attatchments */
@@ -271,7 +271,7 @@ BG Accent: rgb(79, 84, 92)
 }
 
 /* Image / Video Background */
-.chatContent-a9vAAp .imageWrapper-2p5ogY, .chatContent-a9vAAp .imageWrapper-2p5ogY .video-8eMOth {
+.chatContent-3KubbW .imageWrapper-2p5ogY, .chatContent-3KubbW .imageWrapper-2p5ogY .video-8eMOth {
     background-color: rgb(var(--BGR),var(--BGG),var(--BGB));
 }
 
@@ -458,11 +458,11 @@ BG Accent: rgb(79, 84, 92)
 /* --DM AREA-- */
 
 /*Find or start a conversation*/
-.searchBar-6Kv8R2, .base-3dtUhz {
+.searchBar-3TnChZ, .base-2jDfDU {
     background-color: rgb(calc(var(--BGR) + 10), calc(var(--BGG) + 10), calc(var(--BGB) + 10));
 }
 /*DM List*/
-.scroller-1JbKMe {
+.scroller-WSmht3 {
     background-color: rgb(calc(var(--BGR) + 3), calc(var(--BGG) + 3), calc(var(--BGB) + 3));
 }
 /* ----------- */
@@ -470,12 +470,12 @@ BG Accent: rgb(79, 84, 92)
 /* --SETTINGS PAGE-- */
 
 /* Sidebar  */
-.sidebarRegionScroller-3MXcoP {
+.sidebarRegionScroller-FXiQOh {
     background-color: rgb(calc(var(--BGR) + 10), calc(var(--BGG) + 10), calc(var(--BGB) + 10));
 }
 
 /* Settings Content */
-.contentRegionScroller-26nc1e {
+.contentRegionScroller-2_GT_N {
     background-color: rgb(calc(var(--BGR) + 5), calc(var(--BGG) + 5), calc(var(--BGB) + 5));
 }
 
@@ -492,9 +492,9 @@ BG Accent: rgb(79, 84, 92)
     background-color: rgb(var(--BGR), var(--BGG), calc(--BGB));
 }
 
-.info-1VyQPT>span:nth-of-type(3)::after {
+.info-1sUqUG>span:nth-of-type(3)::after {
     white-space: pre-wrap;
-    content: "\a Dark Discord V1.1.81";
+    content: "\a Dark Discord V1.1.82 (HOTFIX 1)";
 }
 
 /* -------------------------*/
@@ -502,7 +502,7 @@ BG Accent: rgb(79, 84, 92)
 /*-- User / Voice panel-- */
 
 /* Voice Connected Panel */
-.panels-j1Uci_ {
+.panels-3wFtMD {
     background-color: rgb(calc(var(--BGR) + 6), calc(var(--BGG) + 6), calc(var(--BGB) + 5));
 }
 
