@@ -1,0 +1,25 @@
+/**
+ * @name Dark Discord Legacy
+ * @author ST3VI3 RICHI3
+ * @version 1
+ * @description A simple darker theme for discord (Legacy classes).
+*/
+
+:root {
+    --BGR: 10;
+    --BGG: 10;
+    --BGB: 10;
+    --TextColor: rgb(255, 255, 255);
+    
+    --text-normal: var(--TextColor);
+}
+
+/* --TITLE BAR-- */
+
+.typeWindows-1za-n7 {
+    margin-top: -4px;
+    padding-top: 8px;
+    background-color: rgb(var(--BGR), var(--BGG), var(--BGB));
+}
+
+/* ------------- */

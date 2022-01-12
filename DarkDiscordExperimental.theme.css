@@ -1,0 +1,136 @@
+/**
+ * @name Dark Discord Experimental
+ * @author ST3VI3 RICHI3
+ * @version 1
+ * @description A simple darker theme for discord.
+*/
+
+:root {
+    --BGR:  10;
+    --BGG:  10;
+    --BGB:  10;
+    --TextColor: rgb(255, 255, 255);
+}
+
+/* --BETA TEXT-- */
+
+.typeWindows-1za-n7::after {
+    color: rgb(var(--BGR),var(--BGG),var(--BGB));
+    margin-top: -20px;
+    margin-right: 5px;
+    content: 'Dark Discord Experimental';
+    transition: margin-top 0.5s ease-in-out, color 0.5s ease-in-out;
+}
+.typeWindows-1za-n7:hover::after {
+    color: rgb(calc(var(--BGR) + 125), calc(var(--BGG) + 50), calc(var(--BGB) + 50));
+    margin-top: 0px;
+}
+
+.info-1VyQPT>span:nth-of-type(3):hover:after {
+    white-space: pre-wrap;
+    content: "\a Dark Discord Upd 7 (Experimental)";
+}
+
+/* --------------*/
+
+/* --BUTTONS-- */
+
+.fieldButton-27bJrp, .radioBar-bMNUI-, .colorPrimary-3b3xI6 {
+    background-color: rgb(calc(var(--BGR) + 25), calc(var(--BGG) + 25), calc(var(--BGB) + 25)) !important;
+}
+
+/* Settings Gear */
+[aria-label="User settings"] .contents-18-Yxp {
+    transform: rotate(-90deg);
+    animation: startspin 0.5s ease-out 1;
+    transition: transform 0.5s ease-in;
+}
+[aria-label="User settings"]:hover .contents-18-Yxp {
+    transform: rotate(0deg);
+    animation: spin 1s linear 0.5s infinite;
+}
+
+/* ----------- */
+
+/* --MENUS-- */
+
+/* Private Channel Roles / Menus Scroller */
+.settingCard-3w2mVL .cardFolder-28dwxo {
+    background-color: rgb(calc(var(--BGR) + 10), calc(var(--BGG) + 10), calc(var(--BGB) + 10));
+}
+
+/* --------- */
+
+/* --CREATE / JOIN SERVER-- */
+
+.container-1CE3eW .title-3w8xhj, .container-1CE3eW .footerTitle-2CYZch, .container-1CE3eW .colorHeaderSecondary-3Sp3Ft, .container-1CE3eW .formTitle-aeXUoN, .container-1CE3eW .title-XLSR78, .container-1CE3eW .contents-18-Yxp, .container-1CE3eW .title-LqAd9K, .container-1CE3eW .title-Z_XiOC, .container-1CE3eW .colorStandard-2KCXvj {
+    color: var(--TextColor);
+}
+
+.container-1CE3eW .container-UC8Ug1, .container-1CE3eW .text-1FOLJS, .container-1CE3eW .rowContainer-3AFY0S, .container-1CE3eW .rowContainer-3AFY0S .rowText-X45Our {
+    background-color: rgb(calc(var(--BGR) + 15), calc(var(--BGG) + 15), calc(var(--BGB) + 15));
+    color: var(--TextColor);
+}
+.container-1CE3eW .container-UC8Ug1:hover, .container-1CE3eW .container-UC8Ug1:hover .text-1FOLJS, .container-1CE3eW .rowContainer-3AFY0S:hover, .container-1CE3eW .rowContainer-3AFY0S:hover .rowText-X45Our {
+    background-color: rgb(calc(var(--BGR) + 10), calc(var(--BGG) + 10), calc(var(--BGB) + 10));
+    color: var(--TextColor);
+}
+
+.container-1CE3eW .footer-1NnaNd, .container-1CE3eW .footer-2ZvXOl, .container-1CE3eW .footer-2gL1pp {
+    box-shadow: inset 0 1px 0 rgba(calc(var(--BGR) + 0), calc(var(--BGG) + 0), calc(var(--BGB) + 0),.6);
+}
+
+.container-1CE3eW .footerButton-ayFTfX, .container-1CE3eW .footer-2gL1pp .sizeMedium-1AC_Sl {
+    background-color: rgb(calc(var(--BGR) + 25), calc(var(--BGG) + 25), calc(var(--BGB) + 25)) !important;
+}
+.container-1CE3eW .footerButton-ayFTfX:hover, .container-1CE3eW .footer-2gL1pp .sizeMedium-1AC_Sl:hover {
+    background-color: rgb(calc(var(--BGR) + 20), calc(var(--BGG) + 20), calc(var(--BGB) + 20)) !important;
+}
+
+.container-1CE3eW .inputWrapper-31_8H8>input {
+    color: rgb(calc(var(--BGR) + 200), calc(var(--BGG) + 200), calc(var(--BGB) + 200));
+}
+.container-1CE3eW .inputWrapper-31_8H8>input::placeholder {
+    color: rgb(calc(var(--BGR) + 150), calc(var(--BGG) + 150), calc(var(--BGB) + 150));
+}
+
+/* Join Server */
+.container-1CE3eW .errorMessage-3Guw2R, .container-1CE3eW .error-kfqhb1 {
+    color: hsl(359,calc(var(--saturation-factor, 1)*82.6%),59.4%);
+}
+
+.container-1CE3eW .inputWrapper-31_8H8 {
+    background-color: rgb(calc(var(--BGR) + 15), calc(var(--BGG) + 15), calc(var(--BGB) + 15));
+    border-radius: 3px;
+}
+
+.container-1CE3eW .sampleLink-2NLvZg {
+    color: var(--text-link);
+}
+
+/* Bodge "Happening now" for now */
+.container-3w7J-x {
+    background-color: rgb(calc(var(--BGR) + 10), calc(var(--BGG) + 10), calc(var(--BGB) + 10));
+}
+.container-3w7J-x .channelNotice-3I83Cr {
+    border-bottom: 1px solid rgb(calc(var(--BGR) + 10), calc(var(--BGG) + 10), calc(var(--BGB) + 10));
+}
+
+/* ------------------------ */
+
+/* --KEYFRAMES-- */
+
+@keyframes spin { 
+    100% { 
+        -webkit-transform: rotate(360deg); 
+        transform:rotate(360deg); 
+    }
+}
+@keyframes startspin { 
+    100% { 
+        -webkit-transform: rotate(0deg); 
+        transform:rotate(0deg); 
+    }
+}
+
+/* ------------- */

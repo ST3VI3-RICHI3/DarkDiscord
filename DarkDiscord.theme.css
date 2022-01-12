@@ -1,0 +1,58 @@
+/**
+ * @name Dark Discord
+ * @author ST3VI3 RICHI3
+ * @version 1.1.6
+ * @description A simple darker theme for discord.
+*/
+
+/* Import from site */
+@import url(https://st3.zapto.org/DiscordThemes/DarkDiscordCore.theme.css);
+
+/* ~~BETA FEATURES~~ */
+/* Uncomment below to enable in-development features.
+   Theese features are subject to change and may vary in quality.
+*/
+
+@import url(https://st3.zapto.org/DiscordThemes/DarkDiscordExperimental.theme.css);
+
+/* ~~~~~~~~~~~~~~~~~ */
+
+:root {
+    --BGR:  0;
+    --BGG:  0;
+    --BGB:  0;
+    --TextColor: rgb(255, 255, 255);
+}
+
+/* --TWEAKS-- */
+
+.avatarSpeaking-2c8-9i {
+    /* Hides green circle around profile picture next to mute and deafen when speaking. */
+	/* Uncomment below to hide the green indicator while talking. */
+    
+	/* visibility: hidden; */
+}
+
+.guildSeparator-33mFX6 {
+    /* Affects the server list between the discord icon to get to DMs and servers. */
+    /* Uncomment below to hide small line between the top left discord logo and servers. */
+    
+    /* visibility: hidden; */
+}
+
+/* ---------- */
+
+/* --User Code-- */
+
+/* This is where custom code for the theme will be placed, it allows you to customise any part
+   of the theme or discord. Press CTRL + Shift + I to access inspect element for discord.
+
+Example (Changes the server list):
+.scroller-1Bvpku {
+    background-color: rgb(calc(var(--BGR) + 10), calc(var(--BGG) + 10), calc(var(--BGB) + 10));
+} 
+*/
+
+
+
+/* ------------- */
