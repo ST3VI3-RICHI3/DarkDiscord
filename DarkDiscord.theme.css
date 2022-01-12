@@ -6,16 +6,22 @@
 */
 
 /* Import from site */
-@import url(https://st3.zapto.org/DiscordThemes/DarkDiscordCore.theme.css);
+@import url(https://st3vi3-richi3.github.io/DarkDiscord/DarkDiscordCore.theme.css);
 
 /* ~~BETA FEATURES~~ */
 /* Uncomment below to enable in-development features.
-   Theese features are subject to change and may vary in quality.
+Theese features are subject to change and may vary in quality.
 */
 
-@import url(https://st3.zapto.org/DiscordThemes/DarkDiscordExperimental.theme.css);
+@import url(https://st3vi3-richi3.github.io/DarkDiscord/DarkDiscordExperimental.theme.css);
 
 /* ~~~~~~~~~~~~~~~~~ */
+
+/* Legacy Class Support */
+/*  This is to ensure compatability
+    Comment to reduce the number of stlyed classes.
+*/
+@import url(https://st3vi3-richi3.github.io/DarkDiscord/DarkDiscordLegacySupport.theme.css);
 
 :root {
     --BGR:  0;
