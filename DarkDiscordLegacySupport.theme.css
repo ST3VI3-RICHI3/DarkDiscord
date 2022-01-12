@@ -353,3 +353,25 @@
 }
 
 /* -------------------------*/
+
+/* --FRIENDS LIST / ACTIVITY--*/
+
+/*Friends List*/
+.peopleColumn-1wMU14.peopleColumn-29fq28 {
+    background-color: rgb(var(--BGR), var(--BGG), var(--BGB));
+}
+.peopleColumn-29fq28 .friendsEmpty-1K9B4k {
+    background: rgb(var(--BGR), var(--BGG), var(--BGB));
+}
+
+.nowPlayingSidebar-2OFn0o .container-lRFx4q, .nowPlayingColumn-2sl4cE .container-lRFx4q {
+    background-color: rgb(calc(var(--BGR) + 5), calc(var(--BGG) + 5), calc(var(--BGB) + 5));
+}
+.nowPlayingSidebar-2OFn0o .container-lRFx4q .itemCard-v9viV7, .nowPlayingColumn-2sl4cE .container-lRFx4q .itemCard-v9viV7 {
+    background-color: rgb(calc(var(--BGR) + 10), calc(var(--BGG) + 10), calc(var(--BGB) + 10));
+}
+.nowPlayingSidebar-2OFn0o .container-lRFx4q .itemCard-v9viV7>div>div .section-2gLsgF, .nowPlayingColumn-2sl4cE .container-lRFx4q .itemCard-v9viV7>div>div .section-2gLsgF, .nowPlayingColumn-2sl4cE .container-lRFx4q .itemCard-v9viV7 .body-1ld4H7, .nowPlayingColumn-2sl4cE .container-lRFx4q .itemCard-v9viV7 .separator-XqIyoz,  .nowPlayingSidebar-2OFn0o .container-lRFx4q .itemCard-v9viV7 .body-1ld4H7, .nowPlayingSidebar-2OFn0o .container-lRFx4q .itemCard-v9viV7 .separator-XqIyoz {
+    background-color: rgb(calc(var(--BGR) + 7), calc(var(--BGG) + 7), calc(var(--BGB) + 7));
+}
+
+/* ---------------------------*/

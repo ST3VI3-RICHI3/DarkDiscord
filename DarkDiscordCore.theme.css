@@ -413,21 +413,27 @@ BG Accent: rgb(79, 84, 92)
 /* --FRIENDS LIST / ACTIVITY--*/
 
 /*Friends List*/
-.peopleColumn-29fq28 {
+.peopleColumn-1wMU14 {
     background-color: rgb(var(--BGR), var(--BGG), var(--BGB));
 }
-.peopleColumn-29fq28 .friendsEmpty-1K9B4k {
+.peopleColumn-29fq28 .friendsEmpty-gs15T1 {
     background: rgb(var(--BGR), var(--BGG), var(--BGB));
 }
 
-.nowPlayingSidebar-2OFn0o .container-lRFx4q, .nowPlayingColumn-2sl4cE .container-lRFx4q {
+.nowPlayingColumn-1eCBCN .container-1oAagU{
     background-color: rgb(calc(var(--BGR) + 5), calc(var(--BGG) + 5), calc(var(--BGB) + 5));
 }
-.nowPlayingSidebar-2OFn0o .container-lRFx4q .itemCard-v9viV7, .nowPlayingColumn-2sl4cE .container-lRFx4q .itemCard-v9viV7 {
+.nowPlayingColumn-1eCBCN .container-1oAagU .itemCard-3Etziu {
     background-color: rgb(calc(var(--BGR) + 10), calc(var(--BGG) + 10), calc(var(--BGB) + 10));
 }
-.nowPlayingSidebar-2OFn0o .container-lRFx4q .itemCard-v9viV7>div>div .section-2gLsgF, .nowPlayingColumn-2sl4cE .container-lRFx4q .itemCard-v9viV7>div>div .section-2gLsgF, .nowPlayingColumn-2sl4cE .container-lRFx4q .itemCard-v9viV7 .body-1ld4H7, .nowPlayingColumn-2sl4cE .container-lRFx4q .itemCard-v9viV7 .separator-XqIyoz,  .nowPlayingSidebar-2OFn0o .container-lRFx4q .itemCard-v9viV7 .body-1ld4H7, .nowPlayingSidebar-2OFn0o .container-lRFx4q .itemCard-v9viV7 .separator-XqIyoz {
+.nowPlayingColumn-1eCBCN .container-1oAagU .itemCard-3Etziu:hover {
+    background-color: rgb(calc(var(--BGR) + 6), calc(var(--BGG) + 6), calc(var(--BGB) + 6));
+}
+.nowPlayingColumn-1eCBCN .container-1oAagU .itemCard-3Etziu>div>div .section-3G9aLW,  .nowPlayingColumn-1eCBCN .container-1oAagU .itemCard-3Etziu .body-16rSsp {
     background-color: rgb(calc(var(--BGR) + 7), calc(var(--BGG) + 7), calc(var(--BGB) + 7));
+}
+.nowPlayingColumn-1eCBCN .container-1oAagU .itemCard-3Etziu .separator-2OaeRP {
+    background-color: rgb(calc(var(--BGR) + 1), calc(var(--BGG) + 1), calc(var(--BGB) + 1));
 }
 
 /* ---------------------------*/
@@ -494,7 +500,7 @@ BG Accent: rgb(79, 84, 92)
 
 .info-1sUqUG>span:nth-of-type(3)::after {
     white-space: pre-wrap;
-    content: "\a Dark Discord V1.1.82 (HOTFIX 1)";
+    content: "\a Dark Discord V1.1.82 (HOTFIX 2)";
 }
 
 /* -------------------------*/
