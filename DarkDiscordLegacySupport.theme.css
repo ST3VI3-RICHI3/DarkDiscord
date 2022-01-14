@@ -375,3 +375,22 @@
 }
 
 /* ---------------------------*/
+
+/* --QUICK SWITCHER-- */
+
+.quickswitcher-3JagVE {
+    background-color: rgb(calc(var(--BGR) + 5), calc(var(--BGG) + 5), calc(var(--BGB) + 5));
+}
+
+.input-2VB9rf {
+    background-color: rgb(calc(var(--BGR) + 15), calc(var(--BGG) + 15), calc(var(--BGB) + 15));
+}
+.quickswitcher-3JagVE .content-3YMskv {
+    background-color: rgb(calc(var(--BGR) + 13), calc(var(--BGG) + 13), calc(var(--BGB) + 13));
+    width:99.9%;
+}
+.scroller-zPkAnE {
+    background-color: rgb(calc(var(--BGR) + 5), calc(var(--BGG) + 5), calc(var(--BGB) + 5));
+}
+
+/* ------------------ */
