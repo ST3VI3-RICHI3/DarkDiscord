@@ -281,14 +281,14 @@ BG Accent: rgb(79, 84, 92)
 }
 
 /* NSFW warning */
-.scroller-11cdZM, .scroller-11cdZM .description-2ydcYn {
+.scroller-3KyaqJ, .scroller-3KyaqJ .description-fPkcPm {
     background-color: rgb(var(--BGR),var(--BGG),var(--BGB));
     color: var(--TextColor);
 }
-.scroller-11cdZM .colorPrimary-3b3xI6 {
+.scroller-3KyaqJ .colorPrimary-2AuQVo {
     background-color: rgb(calc(var(--BGR) + 25), calc(var(--BGG) + 25), calc(var(--BGB) + 25)) !important;
 }
-.scroller-11cdZM .colorPrimary-3b3xI6:hover {
+.scroller-3KyaqJ .colorPrimary-2AuQVo:hover {
     background-color: rgb(calc(var(--BGR) + 20), calc(var(--BGG) + 20), calc(var(--BGB) + 20)) !important;
 }
 
