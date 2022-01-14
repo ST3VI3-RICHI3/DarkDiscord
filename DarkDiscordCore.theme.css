@@ -306,18 +306,18 @@ BG Accent: rgb(79, 84, 92)
 
 /* --QUICK SWITCHER-- */
 
-.quickswitcher-3JagVE {
+.quickswitcher-pKcM9U {
     background-color: rgb(calc(var(--BGR) + 5), calc(var(--BGG) + 5), calc(var(--BGB) + 5));
 }
 
-.input-2VB9rf {
+.input-3r5zZY {
     background-color: rgb(calc(var(--BGR) + 15), calc(var(--BGG) + 15), calc(var(--BGB) + 15));
 }
-.quickswitcher-3JagVE .content-3YMskv {
+.quickswitcher-pKcM9U .content-2a4AW9 {
     background-color: rgb(calc(var(--BGR) + 13), calc(var(--BGG) + 13), calc(var(--BGB) + 13));
     width:99.9%;
 }
-.scroller-zPkAnE {
+.scroller-2qwVWY {
     background-color: rgb(calc(var(--BGR) + 5), calc(var(--BGG) + 5), calc(var(--BGB) + 5));
 }
 
