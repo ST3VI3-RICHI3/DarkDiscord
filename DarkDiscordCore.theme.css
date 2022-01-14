@@ -298,7 +298,7 @@ BG Accent: rgb(79, 84, 92)
 }
 
 /*Delete Message*/
-.message-2qRu38 {
+.message-G6O-Wv {
     background-color: rgb(var(--BGR),var(--BGG),var(--BGB)) !important;
 }
 
@@ -390,10 +390,10 @@ BG Accent: rgb(79, 84, 92)
 
 /* --Popup Dialouges-- */
 
-.focusLock-Ns3yie .small-3iVZYw, .focusLock-Ns3yie .medium-2RE1hE, .focusLock-Ns3yie .modalSize-cqUaws, .focusLock-Ns3yie .customWidth-hekRLH, .header-2MrRa6 {
+.focusLock-2tveLW .small-23Atuv, .focusLock-2tveLW .medium-2RE1hE, .focusLock-2tveLW .modalSize-cqUaws, .focusLock-2tveLW .customWidth-hekRLH, .header-2MrRa6 {
     background-color: rgb(calc(var(--BGR) + 5), calc(var(--BGG) + 5), calc(var(--BGB) + 5));
 }
-.focusLock-Ns3yie .footer-2gL1pp {
+.focusLock-2tveLW .footer-31IekZ {
     background-color: rgb(calc(var(--BGR) + 10), calc(var(--BGG) + 10), calc(var(--BGB) + 10));
 }
 
