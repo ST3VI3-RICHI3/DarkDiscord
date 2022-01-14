@@ -379,10 +379,10 @@ BG Accent: rgb(79, 84, 92)
 }
 
 /* Back Button */
-.modalSize-cqUaws .colorPrimary-3b3xI6 {
+.modalSize-cqUaws .colorPrimary-2AuQVo {
     background-color: rgb(calc(var(--BGR) + 30), calc(var(--BGG) + 30), calc(var(--BGB) + 30)) !important;
 }
-.modalSize-cqUaws .colorPrimary-3b3xI6:hover {
+.modalSize-cqUaws .colorPrimary-2AuQVo:hover {
     background-color: rgb(calc(var(--BGR) + 40), calc(var(--BGG) + 40), calc(var(--BGB) + 40)) !important;
 }
 
@@ -648,7 +648,7 @@ BG Accent: rgb(79, 84, 92)
 
 /* --ADD FRIENDS TO DM POPOUT-- */
 
-.layer-v9HyYc .focusLock-Ns3yie .popout-103y-5 .friendSelected-1sa4bG {
+.layer-v9HyYc .focusLock-2tveLW .popout-103y-5 .friendSelected-1sa4bG {
     background-color: rgb(calc(var(--BGR) + 15), calc(var(--BGG) + 15), calc(var(--BGB) + 15));
 }
 
