@@ -14,19 +14,19 @@
 
 /* --BETA TEXT-- */
 
-.typeWindows-1za-n7::after {
+.typeWindows-2-g3UY::after {
     color: rgb(var(--BGR),var(--BGG),var(--BGB));
     margin-top: -20px;
     margin-right: 5px;
     content: 'Dark Discord Experimental';
     transition: margin-top 0.5s ease-in-out, color 0.5s ease-in-out;
 }
-.typeWindows-1za-n7:hover::after {
+.typeWindows-2-g3UY:hover::after {
     color: rgb(calc(var(--BGR) + 125), calc(var(--BGG) + 50), calc(var(--BGB) + 50));
     margin-top: 0px;
 }
 
-.info-1VyQPT>span:nth-of-type(3):hover:after {
+.info-1sUqUG>span:nth-of-type(3):hover:after {
     white-space: pre-wrap;
     content: "\a Dark Discord Upd 7 (Experimental)";
 }
@@ -40,12 +40,12 @@
 }
 
 /* Settings Gear */
-[aria-label="User settings"] .contents-18-Yxp {
+[aria-label="User Settings"] .contents-3ca1mk {
     transform: rotate(-90deg);
     animation: startspin 0.5s ease-out 1;
     transition: transform 0.5s ease-in;
 }
-[aria-label="User settings"]:hover .contents-18-Yxp {
+[aria-label="User Settings"]:hover .contents-3ca1mk {
     transform: rotate(0deg);
     animation: spin 1s linear 0.5s infinite;
 }
@@ -55,7 +55,7 @@
 /* --MENUS-- */
 
 /* Private Channel Roles / Menus Scroller */
-.settingCard-3w2mVL .cardFolder-28dwxo {
+.settingCard-xZSDjS .cardFolder-3H4uH4 {
     background-color: rgb(calc(var(--BGR) + 10), calc(var(--BGG) + 10), calc(var(--BGB) + 10));
 }
 

@@ -214,10 +214,10 @@ BG Accent: rgb(79, 84, 92)
 .form-3gdLxP:before{
     visibility: hidden;
 }
-.attachedBars-tZDmyV, .attachedBars-tZDmyV .replyBar-1YLQ2F {
+.attachedBars-2BCP3l, .attachedBars-2BCP3l .replyBar-1oi75v {
     background-color: rgb(calc(var(--BGR) + 10), calc(var(--BGG) + 10), calc(var(--BGB) + 10));
 }
-.jumpToPresentBar-G1R9s6 {
+.jumpToPresentBar-1cEnH0 {
     background-color: rgb(calc(var(--BGR) + 10), calc(var(--BGG) + 10), calc(var(--BGB) + 10));
 }
 .threadSuggestionBar-2ufK2Z {
@@ -225,10 +225,10 @@ BG Accent: rgb(79, 84, 92)
 }
 
 /*@ mention / emoji autocomplete*/
-.autocomplete-1vrmpx {
+.autocomplete-3NRXG8 {
     background-color: rgb(calc(var(--BGR) + 10), calc(var(--BGG) + 10), calc(var(--BGB) + 10)) !important;
 }
-.autocomplete-1vrmpx .selected-1Tbx07 {
+.autocomplete-3NRXG8 .selected-3H3-RC {
     background-color: rgb(calc(var(--BGR) + 25), calc(var(--BGG) + 25), calc(var(--BGB) + 25)) !important;
 }
 
@@ -500,7 +500,7 @@ BG Accent: rgb(79, 84, 92)
 
 .info-1sUqUG>span:nth-of-type(3)::after {
     white-space: pre-wrap;
-    content: "\a Dark Discord V1.1.82 (HOTFIX 3)";
+    content: "\a Dark Discord V1.1.82 (HOTFIX 4)";
 }
 
 /* -------------------------*/
@@ -513,15 +513,15 @@ BG Accent: rgb(79, 84, 92)
 }
 
 /* Stream / Webcam Buttons */
-.actionButtons-14eAc_ [aria-label="Share Your screen"], .actionButtons-14eAc_ [aria-label="Turn on camera"] {
+.actionButtons-2vEOUh [aria-label="Share Your Screen"], .actionButtons-2vEOUh [aria-label="Turn on Camera"] {
     background-color: rgb(calc(var(--BGR) + 25), calc(var(--BGG) + 25), calc(var(--BGB) + 25)) !important;
 }
-.actionButtons-14eAc_ [aria-label="Share Your screen"]:hover, .actionButtons-14eAc_ [aria-label="Turn on camera"]:hover {
+.actionButtons-2vEOUh [aria-label="Share Your Screen"]:hover, .actionButtons-2vEOUh [aria-label="Turn on Camera"]:hover {
     background-color: rgb(calc(var(--BGR) + 20), calc(var(--BGG) + 20), calc(var(--BGB) + 20)) !important;
 }
-.actionButtons-14eAc_ .buttonActive-3FrkXp  {
+.actionButtons-2vEOUh .buttonActive-Uc1jHx  {
     background-color: rgb(calc(var(--BGR) + 50), calc(var(--BGG) + 125), calc(var(--BGB) + 50)) !important;
-}.actionButtons-14eAc_ .buttonActive-3FrkXp:hover  {
+}.actionButtons-2vEOUh .buttonActive-Uc1jHx:hover  {
     background-color: rgb(calc(var(--BGR) + 40), calc(var(--BGG) + 115), calc(var(--BGB) + 40)) !important;
 }
 
@@ -530,30 +530,30 @@ BG Accent: rgb(79, 84, 92)
 
 /* --USER POPOUTS--*/
 
-.loadingPopout-qYljDW {
+.loadingPopout-1feYe_ {
     background-color: rgb(var(--BGR), var(--BGG), calc(--BGB));
 }
 /* background */
-.userPopout-xaxa6l {
+.userPopout-2j1gM4 {
     background: linear-gradient(180deg, rgba(calc(var(--BGR) + 30), calc(var(--BGG) + 30), calc(var(--BGB) + 30), 1) 11%, rgba(calc(var(--BGR) + 10), calc(var(--BGG) + 10), calc(var(--BGB) + 10),1 ) 25%);
 }
-.userPopout-xaxa6l .body-3HBlXn, .userPopout-xaxa6l .bodyInnerWrapper-26fQXj, .userPopout-xaxa6l .footer-3UKYOU {
+.userPopout-2j1gM4 .body-2wLx-E, .userPopout-2j1gM4 .bodyInnerWrapper-2bQs1k, .userPopout-2j1gM4 .footer-3naVBw {
     background-color: rgb(calc(var(--BGR) + 10), calc(var(--BGG) + 10), calc(var(--BGB) + 10));
 }
-.userPopout-xaxa6l .body-3HBlXn  {
+.userPopout-2j1gM4 .body-2wLx-E  {
     padding-top: 5px;
     padding-bottom: 15px;
 }
 /*Activity status*/
-.userPopout-xaxa6l .activityUserPopout-2yItg2 {
+.userPopout-2j1gM4 .activityUserPopout-2yItg2 {
     padding-bottom: 15px;
 }
 
 /*User profile*/
-[aria-label="User profile modal"] .topSection-y3p-_D, [aria-label="User profile modal"] .body-r6_QPy {
+[aria-label="User Profile Modal"] .topSection-13QKHs, [aria-label="User Profile Modal"] .body-1Ukv50 {
     background-color: rgb(calc(var(--BGR) + 5), calc(var(--BGG) + 5), calc(var(--BGB) + 5));
 }
-[aria-label="User profile modal"] .topSection-y3p-_D {
+[aria-label="User Profile Modal"] .topSection-13QKHs {
     background: linear-gradient(180deg, rgba(calc(var(--BGR) + 30), calc(var(--BGG) + 30), calc(var(--BGB) + 30), 1) 35%, rgba(calc(var(--BGR) + 5), calc(var(--BGG) + 5), calc(var(--BGB) + 5),1 ) 75%);
 }
 
@@ -562,7 +562,7 @@ BG Accent: rgb(79, 84, 92)
 /* --CUSTOM STATUS POPOUT-- */
 
 /* Clear and status drop-down */
-[aria-label="Set a custom status"] .select-2fjwPw {
+[aria-label="Set a custom status"] .select-1Ia3hD {
     background-color: rgb(calc(var(--BGR) + 15), calc(var(--BGG) + 15), calc(var(--BGB) + 15));    
 }
 

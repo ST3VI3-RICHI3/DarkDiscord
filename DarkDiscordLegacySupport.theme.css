@@ -394,3 +394,43 @@
 }
 
 /* ------------------ */
+
+/* --USER POPOUTS--*/
+
+.loadingPopout-qYljDW {
+    background-color: rgb(var(--BGR), var(--BGG), calc(--BGB));
+}
+/* background */
+.userPopout-xaxa6l {
+    background: linear-gradient(180deg, rgba(calc(var(--BGR) + 30), calc(var(--BGG) + 30), calc(var(--BGB) + 30), 1) 11%, rgba(calc(var(--BGR) + 10), calc(var(--BGG) + 10), calc(var(--BGB) + 10),1 ) 25%);
+}
+.userPopout-xaxa6l .body-3HBlXn, .userPopout-xaxa6l .bodyInnerWrapper-26fQXj, .userPopout-xaxa6l .footer-3UKYOU {
+    background-color: rgb(calc(var(--BGR) + 10), calc(var(--BGG) + 10), calc(var(--BGB) + 10));
+}
+.userPopout-xaxa6l .body-3HBlXn  {
+    padding-top: 5px;
+    padding-bottom: 15px;
+}
+/*Activity status*/
+.userPopout-xaxa6l .activityUserPopout-2yItg2 {
+    padding-bottom: 15px;
+}
+
+/*User profile*/
+[aria-label="User profile modal"] .topSection-y3p-_D, [aria-label="User profile modal"] .body-r6_QPy {
+    background-color: rgb(calc(var(--BGR) + 5), calc(var(--BGG) + 5), calc(var(--BGB) + 5));
+}
+[aria-label="User profile modal"] .topSection-y3p-_D {
+    background: linear-gradient(180deg, rgba(calc(var(--BGR) + 30), calc(var(--BGG) + 30), calc(var(--BGB) + 30), 1) 35%, rgba(calc(var(--BGR) + 5), calc(var(--BGG) + 5), calc(var(--BGB) + 5),1 ) 75%);
+}
+
+/* ----------------*/
+
+/* --CUSTOM STATUS POPOUT-- */
+
+/* Clear and status drop-down */
+[aria-label="Set a custom status"] .select-2fjwPw {
+    background-color: rgb(calc(var(--BGR) + 15), calc(var(--BGG) + 15), calc(var(--BGB) + 15));    
+}
+
+/* ------------------------ */
