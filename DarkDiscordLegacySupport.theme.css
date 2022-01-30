@@ -449,3 +449,74 @@
 }
 
 /* ---------- */
+
+/* --STREAM / SCREEN SHARE MENU-- */
+
+/* Screen / Channel box */
+.modalSize-cqUaws .card-2Mz_4z {
+    background-color: rgb(calc(var(--BGR) + 15), calc(var(--BGG) + 15), calc(var(--BGB) + 15));
+    border-color: rgb(calc(var(--BGR) + 25), calc(var(--BGG) + 25), calc(var(--BGB) + 25));
+}
+
+/* Change What You're Streaming Button */
+.modalSize-cqUaws .card-2Mz_4z .changeButton-278ZT6 {
+    background-color: rgb(calc(var(--BGR) + 30), calc(var(--BGG) + 30), calc(var(--BGB) + 30)) !important;
+}
+.modalSize-cqUaws .card-2Mz_4z .changeButton-278ZT6:hover {
+    background-color: rgb(calc(var(--BGR) + 25), calc(var(--BGG) + 25), calc(var(--BGB) + 25)) !important;
+}
+
+/* UNKNOWN */
+/* .modalSize-cqUaws [role="radiogroup"] .item-26Dhrx {
+    background-color: rgb(calc(var(--BGR) + 15), calc(var(--BGG) + 15), calc(var(--BGB) + 15));
+}
+.modalSize-cqUaws [role="radiogroup"] .item-26Dhrx:hover {
+    background-color: rgb(calc(var(--BGR) + 20), calc(var(--BGG) + 20), calc(var(--BGB) + 20));
+}
+.modalSize-cqUaws [role="radiogroup"] .item-26Dhrx[aria-checked="true"], [role="radiogroup"] .item-26Dhrx[aria-checked="true"]:hover {
+    background-color: rgb(calc(var(--BGR) + 30), calc(var(--BGG) + 30), calc(var(--BGB) + 30));
+} */
+
+/* Quality Settings Presets */
+.modalSize-cqUaws .qualitySettingsContainer-1gOtRJ .select-2fjwPw {
+    background-color: rgb(calc(var(--BGR) + 15), calc(var(--BGG) + 15), calc(var(--BGB) + 15));
+    border-color: rgb(calc(var(--BGR) + 25), calc(var(--BGG) + 25), calc(var(--BGB) + 25));
+}
+
+/* Custom Quality Selector Buttons */
+.modalSize-cqUaws .selectorButton-EEUWed {
+    background-color: rgb(calc(var(--BGR) + 15), calc(var(--BGG) + 15), calc(var(--BGB) + 15));
+}
+.modalSize-cqUaws .selectorButton-EEUWed:hover {
+    background-color: rgb(calc(var(--BGR) + 25), calc(var(--BGG) + 25), calc(var(--BGB) + 25));
+}
+.modalSize-cqUaws .selectorButtonSelected-t5V9On {
+    background-color: rgb(calc(var(--BGR) + 5), calc(var(--BGG) + 5), calc(var(--BGB) + 10));
+}
+.modalSize-cqUaws .selectorButtonSelected-t5V9On:hover {
+    background-color: rgb(calc(var(--BGR) + 20), calc(var(--BGG) + 20), calc(var(--BGB) + 20));
+}
+
+/* Back Button */
+.modalSize-cqUaws .colorPrimary-2AuQVo {
+    background-color: rgb(calc(var(--BGR) + 30), calc(var(--BGG) + 30), calc(var(--BGB) + 30)) !important;
+}
+.modalSize-cqUaws .colorPrimary-2AuQVo:hover {
+    background-color: rgb(calc(var(--BGR) + 40), calc(var(--BGG) + 40), calc(var(--BGB) + 40)) !important;
+}
+
+/* ------------------------------ */
+
+/* --EMOJI PICKER POPOUT-- */
+
+.emojiPicker-3PwZFl .header-8ilj5e, #emoji-picker-tab-panel .categoryList-2Kzf65, .emojiPicker-3PwZFl .inspector-3LQtX9 {
+    background-color: rgb(calc(var(--BGR) + 15), calc(var(--BGG) + 15), calc(var(--BGB) + 15));
+}
+#emoji-picker-tab-panel .categoryList-2Kzf65 .scroller-2MALzE {
+    background-color: rgb(calc(var(--BGR) + 10), calc(var(--BGG) + 10), calc(var(--BGB) + 10));
+}
+.emojiPicker-3PwZFl .scroller-2MALzE, .emojiPicker-3PwZFl .header-ywPcAE, .emojiPicker-3PwZFl .noSearchResultsContainer-7llQ5J {
+    background-color: rgb(calc(var(--BGR) + 5), calc(var(--BGG) + 5), calc(var(--BGB) + 5));
+}
+
+/* ----------------------- */

@@ -193,17 +193,17 @@ BG Accent: rgb(79, 84, 92)
 .textContainer-C0szpm {
     background-color: rgb(calc(var(--BGR) + 15), calc(var(--BGG) + 15), calc(var(--BGB) + 15));
 }
-.messageAttachment-1aDidq .embedWrapper-lXpS3L .footer-2yA7Ep {
+.messageAttachment-CZp8Iv .embedWrapper-1MtIDg .footer-GXWBBp {
     background-color: rgb(calc(var(--BGR) + 25), calc(var(--BGG) + 25), calc(var(--BGB) + 25));
 }
 
 /*Embed*/
-.container-1ov-mD .embed-IeVjo6 {
+.container-2sjPya .embed-hKpSrO {
     background-color: rgb(calc(var(--BGR) + 10), calc(var(--BGG) + 10), calc(var(--BGB) + 10));
 }
 
 /* Thread */
-.message-2qnXI6 .container-3hZ-gs {
+.message-2CShn3 .container-3i3IzO {
     background-color: rgb(calc(var(--BGR) + 10), calc(var(--BGG) + 10), calc(var(--BGB) + 10));
 }
 
@@ -244,19 +244,19 @@ BG Accent: rgb(79, 84, 92)
 }
 
 /*Gif / Emoji picker / Sticker*/
-.contentWrapper-SvZHNd, .wrapper-1-Fsb8 {
+.contentWrapper-3vHNP2, .wrapper-1NNaWG {
     background-color: rgb(calc(var(--BGR) + 15), calc(var(--BGG) + 15), calc(var(--BGB) + 15));
 }
-.contentWrapper-SvZHNd .wrapper-2Gsate .scroller-3gAZLs, .emojiPicker-3PwZFl .wrapper-2Gsate .scroller-3gAZLs {
+.contentWrapper-3vHNP2 .wrapper-22rqw6 .scroller-2MALzE, .emojiPicker-6YCk8a .wrapper-22rqw6 .scroller-2MALzE {
     background-color: rgb(calc(var(--BGR) + 5), calc(var(--BGG) + 5), calc(var(--BGB) + 5)) !important;
 }
-.contentWrapper-SvZHNd .inspector-S2gM3e, .contentWrapper-SvZHNd .unicodeShortcut-15J8Ck, .emojiPicker-3PwZFl .inspector-S2gM3e, .emojiPicker-3PwZFl .unicodeShortcut-15J8Ck {
+.contentWrapper-3vHNP2 .inspector-DFKXwB, .contentWrapper-3vHNP2 .unicodeShortcut-3N8oDe, .emojiPicker-6YCk8a .inspector-DFKXwB, .emojiPicker-6YCk8a .unicodeShortcut-3N8oDe {
     background-color: rgb(calc(var(--BGR) + 20), calc(var(--BGG) + 20), calc(var(--BGB) + 20)) !important;
 }
-#emoji-picker-tab-panel .bodyWrapper-3G0FZZ .scroller-3gAZLs, #emoji-picker-tab-panel .bodyWrapper-3G0FZZ .wrapper-1-Fsb8, .contentWrapper-SvZHNd .listWrapper-hig339, .contentWrapper-SvZHNd .wrapper-1-Fsb8 {
+#emoji-picker-tab-panel .bodyWrapper-1eSOtW .scroller-2MALzE, #emoji-picker-tab-panel .bodyWrapper-1eSOtW .wrapper-1NNaWG, .contentWrapper-3vHNP2 .listWrapper-2DwCYS, .contentWrapper-3vHNP2 .listWrapper-2DwCYS .wrapper-1NNaWG, .contentWrapper-3vHNP2 .bodyWrapper-1eSOtW .noSearchResultsContainer-VnpLwp {
     background-color: rgb(var(--BGR), var(--BGG), var(--BGB)) !important;
 }
-#emoji-picker-tab-panel .unicodeShortcut-15J8Ck, .contentWrapper-SvZHNd .standardStickerShortcut-3iRT0y {
+#emoji-picker-tab-panel .unicodeShortcut-3N8oDe, .contentWrapper-3vHNP2 .standardStickerShortcut-ObSns3, .contentWrapper-3vHNP2 .standardStickerShortcut-3iRT0y {
     background-color: rgb(calc(var(--BGR) + 15), calc(var(--BGG) + 15), calc(var(--BGB) + 15)) !important;
 }
 
@@ -285,7 +285,7 @@ BG Accent: rgb(79, 84, 92)
     background-color: rgb(var(--BGR),var(--BGG),var(--BGB));
     color: var(--TextColor);
 }
-.scroller-3KyaqJ .colorPrimary-2AuQVo {
+.scroller-3KyaqJ .colorPrimary-2AuQVo{
     background-color: rgb(calc(var(--BGR) + 25), calc(var(--BGG) + 25), calc(var(--BGB) + 25)) !important;
 }
 .scroller-3KyaqJ .colorPrimary-2AuQVo:hover {
@@ -334,55 +334,44 @@ BG Accent: rgb(79, 84, 92)
 /* --STREAM / SCREEN SHARE MENU-- */
 
 /* Screen / Channel box */
-.modalSize-cqUaws .card-2Mz_4z {
+.modalSize-3WSXDU .card-m7VgZ8 {
     background-color: rgb(calc(var(--BGR) + 15), calc(var(--BGG) + 15), calc(var(--BGB) + 15));
     border-color: rgb(calc(var(--BGR) + 25), calc(var(--BGG) + 25), calc(var(--BGB) + 25));
 }
 
 /* Change What You're Streaming Button */
-.modalSize-cqUaws .card-2Mz_4z .changeButton-278ZT6 {
+.modalSize-3WSXDU .card-m7VgZ8 .changeButton-2kfgQt {
     background-color: rgb(calc(var(--BGR) + 30), calc(var(--BGG) + 30), calc(var(--BGB) + 30)) !important;
 }
-.modalSize-cqUaws .card-2Mz_4z .changeButton-278ZT6:hover {
+.modalSize-3WSXDU .card-m7VgZ8 .changeButton-2kfgQt:hover {
     background-color: rgb(calc(var(--BGR) + 25), calc(var(--BGG) + 25), calc(var(--BGB) + 25)) !important;
 }
 
-/* UNKNOWN */
-/* .modalSize-cqUaws [role="radiogroup"] .item-26Dhrx {
-    background-color: rgb(calc(var(--BGR) + 15), calc(var(--BGG) + 15), calc(var(--BGB) + 15));
-}
-.modalSize-cqUaws [role="radiogroup"] .item-26Dhrx:hover {
-    background-color: rgb(calc(var(--BGR) + 20), calc(var(--BGG) + 20), calc(var(--BGB) + 20));
-}
-.modalSize-cqUaws [role="radiogroup"] .item-26Dhrx[aria-checked="true"], [role="radiogroup"] .item-26Dhrx[aria-checked="true"]:hover {
-    background-color: rgb(calc(var(--BGR) + 30), calc(var(--BGG) + 30), calc(var(--BGB) + 30));
-} */
-
 /* Quality Settings Presets */
-.modalSize-cqUaws .qualitySettingsContainer-1gOtRJ .select-2fjwPw {
+.modalSize-3WSXDU .qualitySettingsContainer-2LjkfM .select-1Ia3hD {
     background-color: rgb(calc(var(--BGR) + 15), calc(var(--BGG) + 15), calc(var(--BGB) + 15));
     border-color: rgb(calc(var(--BGR) + 25), calc(var(--BGG) + 25), calc(var(--BGB) + 25));
 }
 
 /* Custom Quality Selector Buttons */
-.modalSize-cqUaws .selectorButton-EEUWed {
+.modalSize-3WSXDU .selectorButton-3fWZ0_ {
     background-color: rgb(calc(var(--BGR) + 15), calc(var(--BGG) + 15), calc(var(--BGB) + 15));
 }
-.modalSize-cqUaws .selectorButton-EEUWed:hover {
+.modalSize-3WSXDU .selectorButton-3fWZ0_:hover {
     background-color: rgb(calc(var(--BGR) + 25), calc(var(--BGG) + 25), calc(var(--BGB) + 25));
 }
-.modalSize-cqUaws .selectorButtonSelected-t5V9On {
-    background-color: rgb(calc(var(--BGR) + 5), calc(var(--BGG) + 5), calc(var(--BGB) + 10));
+.modalSize-3WSXDU .selectorButtonSelected-3cQUnj {
+    background-color: rgb(calc(var(--BGR) + 5), calc(var(--BGG) + 5), calc(var(--BGB) + 5));
 }
-.modalSize-cqUaws .selectorButtonSelected-t5V9On:hover {
-    background-color: rgb(calc(var(--BGR) + 20), calc(var(--BGG) + 20), calc(var(--BGB) + 20));
+.modalSize-3WSXDU .selectorButtonSelected-3cQUnj:hover {
+    background-color: rgb(calc(var(--BGR) + 5), calc(var(--BGG) + 5), calc(var(--BGB) + 5));
 }
 
 /* Back Button */
-.modalSize-cqUaws .colorPrimary-2AuQVo {
+.modalSize-3WSXDU .colorPrimary-2AuQVo {
     background-color: rgb(calc(var(--BGR) + 30), calc(var(--BGG) + 30), calc(var(--BGB) + 30)) !important;
 }
-.modalSize-cqUaws .colorPrimary-2AuQVo:hover {
+.modalSize-3WSXDU .colorPrimary-2AuQVo:hover {
     background-color: rgb(calc(var(--BGR) + 40), calc(var(--BGG) + 40), calc(var(--BGB) + 40)) !important;
 }
 
@@ -390,7 +379,7 @@ BG Accent: rgb(79, 84, 92)
 
 /* --Popup Dialouges-- */
 
-.focusLock-2tveLW .small-23Atuv, .focusLock-2tveLW .medium-2RE1hE, .focusLock-2tveLW .modalSize-cqUaws, .focusLock-2tveLW .customWidth-hekRLH, .header-2MrRa6 {
+.focusLock-2tveLW .small-23Atuv, .focusLock-2tveLW .medium-2RE1hE, .focusLock-2tveLW .modalSize-3WSXDU, .focusLock-2tveLW .customWidth-hekRLH, .header-2MrRa6 {
     background-color: rgb(calc(var(--BGR) + 5), calc(var(--BGG) + 5), calc(var(--BGB) + 5));
 }
 .focusLock-2tveLW .footer-31IekZ {
@@ -500,7 +489,7 @@ BG Accent: rgb(79, 84, 92)
 
 .info-1sUqUG>span:nth-of-type(3)::after {
     white-space: pre-wrap;
-    content: "\a Dark Discord V1.1.82 (HOTFIX 4)";
+    content: "\a Dark Discord V1.1.82 (HOTFIX 6)";
 }
 
 /* -------------------------*/
@@ -712,13 +701,13 @@ BG Accent: rgb(79, 84, 92)
 
 /* --EMOJI PICKER POPOUT-- */
 
-.emojiPicker-3PwZFl .header-8ilj5e, #emoji-picker-tab-panel .categoryList-2Kzf65, .emojiPicker-3PwZFl .inspector-3LQtX9 {
+.emojiPicker-6YCk8a .header-11eigE, #emoji-picker-tab-panel .categoryList-2qRrlj, .emojiPicker-6YCk8a .inspector-3LQtX9 {
     background-color: rgb(calc(var(--BGR) + 15), calc(var(--BGG) + 15), calc(var(--BGB) + 15));
 }
-#emoji-picker-tab-panel .categoryList-2Kzf65 .scroller-3gAZLs {
+#emoji-picker-tab-panel .categoryList-2qRrlj .scroller-2MALzE {
     background-color: rgb(calc(var(--BGR) + 10), calc(var(--BGG) + 10), calc(var(--BGB) + 10));
 }
-.emojiPicker-3PwZFl .scroller-3gAZLs, .emojiPicker-3PwZFl .header-ywPcAE, .emojiPicker-3PwZFl .noSearchResultsContainer-7llQ5J {
+.emojiPicker-6YCk8a .scroller-2MALzE, .emojiPicker-6YCk8a .header-1ULbqO, .emojiPicker-6YCk8a .noSearchResultsContainer-VnpLwp {
     background-color: rgb(calc(var(--BGR) + 5), calc(var(--BGG) + 5), calc(var(--BGB) + 5));
 }
 
