@@ -751,15 +751,15 @@ BG Accent: rgb(79, 84, 92)
 }
 
 /* Search Styling */
-.searchHeader-2XoQg7 {
+.searchHeader-1r_ZSh {
     background-color: rgb(calc(var(--BGR) + 10), calc(var(--BGG) + 10), calc(var(--BGB) + 10));
 }
-.scroller-3GIiMh, .scroller-3GIiMh .channelName-1JRO3C {
+.scroller-3iiyhZ, .scroller-3iiyhZ .channelName-3w2Y3c {
     background-color: rgb(calc(var(--BGR) + 5), calc(var(--BGG) + 5), calc(var(--BGB) + 5));
 }
 
 /* Message content */
-.scroller-3GIiMh .message-1Ng5AR {
+.scroller-3iiyhZ .message-24k8JL {
     background-color: rgb(var(--BGR), var(--BGG), var(--BGB));
 }
 

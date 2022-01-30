@@ -434,3 +434,18 @@
 }
 
 /* ------------------------ */
+
+/* Search Styling */
+.searchHeader-2XoQg7 {
+    background-color: rgb(calc(var(--BGR) + 10), calc(var(--BGG) + 10), calc(var(--BGB) + 10));
+}
+.scroller-3GIiMh, .scroller-3GIiMh .channelName-1JRO3C {
+    background-color: rgb(calc(var(--BGR) + 5), calc(var(--BGG) + 5), calc(var(--BGB) + 5));
+}
+
+/* Message content */
+.scroller-3GIiMh .message-1Ng5AR {
+    background-color: rgb(var(--BGR), var(--BGG), var(--BGB));
+}
+
+/* ---------- */
