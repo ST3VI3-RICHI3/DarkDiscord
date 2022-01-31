@@ -96,7 +96,7 @@ BG Accent: rgb(79, 84, 92)
     /*Server name panel*/
     background-color: rgb(calc(var(--BGR) + 7), calc(var(--BGG) + 7), calc(var(--BGB) + 7));
 }
-.clickable-vvKY2q .header-3OsQeK:hover, .selected-31Nl7x .header-2V-4Sw {
+.clickable-vvKY2q .header-3OsQeK:hover, .selected-31Nl7x .header-3OsQeK {
     background-color: rgb(calc(var(--BGR) + 15), calc(var(--BGG) + 15), calc(var(--BGB) + 15));
 }
 .bannerVisible-Vkyg1I {
@@ -489,7 +489,7 @@ BG Accent: rgb(79, 84, 92)
 
 .info-1sUqUG>span:nth-of-type(3)::after {
     white-space: pre-wrap;
-    content: "\a Dark Discord V1.1.82 (HOTFIX 6)";
+    content: "\a Dark Discord V1.1.83 (HOTFIX 7)";
 }
 
 /* -------------------------*/
@@ -502,10 +502,10 @@ BG Accent: rgb(79, 84, 92)
 }
 
 /* Stream / Webcam Buttons */
-.actionButtons-2vEOUh [aria-label="Share Your Screen"], .actionButtons-2vEOUh [aria-label="Turn on Camera"] {
+.actionButtons-2vEOUh [aria-label="Share Your Screen"], .actionButtons-2vEOUh [aria-label="Turn on Camera"], .actionButtons-2vEOUh [aria-label="Start an Activity"] {
     background-color: rgb(calc(var(--BGR) + 25), calc(var(--BGG) + 25), calc(var(--BGB) + 25)) !important;
 }
-.actionButtons-2vEOUh [aria-label="Share Your Screen"]:hover, .actionButtons-2vEOUh [aria-label="Turn on Camera"]:hover {
+.actionButtons-2vEOUh [aria-label="Share Your Screen"]:hover, .actionButtons-2vEOUh [aria-label="Turn on Camera"]:hover, .actionButtons-2vEOUh [aria-label="Start an Activity"]:hover {
     background-color: rgb(calc(var(--BGR) + 20), calc(var(--BGG) + 20), calc(var(--BGB) + 20)) !important;
 }
 .actionButtons-2vEOUh .buttonActive-Uc1jHx  {
@@ -513,7 +513,6 @@ BG Accent: rgb(79, 84, 92)
 }.actionButtons-2vEOUh .buttonActive-Uc1jHx:hover  {
     background-color: rgb(calc(var(--BGR) + 40), calc(var(--BGG) + 115), calc(var(--BGB) + 40)) !important;
 }
-
 
 /* ---------------------- */
 
