@@ -261,11 +261,11 @@ BG Accent: rgb(79, 84, 92)
 }
 
 /*Uploading file*/
-.markup-eYLPri .attachment-33OFj0 {
+.markup-eYLPri .attachment-1PZZB2 {
     background-color: rgb(calc(var(--BGR) + 20), calc(var(--BGG) + 20), calc(var(--BGB) + 20));
 }
 /* Attatchments */
-.embedWrapper-lXpS3L {
+.embedWrapper-1MtIDg {
     background-color: rgb(calc(var(--BGR) + 10), calc(var(--BGG) + 10), calc(var(--BGB) + 10));
     border-color: rgb(calc(var(--BGR) + 5), calc(var(--BGG) + 5), calc(var(--BGB) + 5))
 }
