@@ -46,6 +46,13 @@ Theese features are subject to change and may vary in quality.
     /* visibility: hidden; */
 }
 
+.xenoLib-centering-topRight {
+    /* Tweak for XenoLib notifications covering search, pins, etc. */
+    /* Uncomment below to lower XenoLib's notifications,
+    but keep them in the top right.*/
+    /* margin-top: 62.5px; */
+}
+
 /* ---------- */
 
 /* --User Code-- */
@@ -58,7 +65,5 @@ Example (Changes the server list):
     background-color: rgb(calc(var(--BGR) + 10), calc(var(--BGG) + 10), calc(var(--BGB) + 10));
 } 
 */
-
-
 
 /* ------------- */
