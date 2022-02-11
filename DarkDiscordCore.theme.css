@@ -114,7 +114,7 @@ BG Accent: rgb(79, 84, 92)
     visibility: hidden;
 }
 
-.channelNotice-3-mDJt {
+.channelNotice-3-mDJt, .channelNotice-7cg_jN {
     /* Server tips */
     background-color: rgb(calc(var(--BGR) + 10), calc(var(--BGG) + 10), calc(var(--BGB) + 10)) !important;
 }
