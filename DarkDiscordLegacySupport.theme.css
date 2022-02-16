@@ -41,6 +41,12 @@
 
 /* ------------------------ */
 
+/* --CRASH SCREEN-- */
+
+.errorPage-u8SYh4 {
+    background-color: rgb(var(--BGR),var(--BGG),var(--BGB));
+}
+
 /* --SERVER LIST-- */
 
 .selected-bZ3Lue .childWrapper-anI2G9 {
