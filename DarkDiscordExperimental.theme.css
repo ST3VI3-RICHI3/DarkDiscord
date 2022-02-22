@@ -28,16 +28,12 @@
 
 .info-1sUqUG>span:nth-of-type(3):hover:after {
     white-space: pre-wrap;
-    content: "\a Dark Discord Upd 7 (Experimental)";
+    content: "\a Dark Discord Upd 8 (Experimental)";
 }
 
 /* --------------*/
 
 /* --BUTTONS-- */
-
-.fieldButton-27bJrp, .radioBar-bMNUI-, .colorPrimary-3b3xI6 {
-    background-color: rgb(calc(var(--BGR) + 25), calc(var(--BGG) + 25), calc(var(--BGB) + 25)) !important;
-}
 
 /* Settings Gear */
 [aria-label="User Settings"] .contents-3ca1mk {
@@ -109,10 +105,10 @@
 }
 
 /* Bodge "Happening now" for now */
-.container-3w7J-x {
+.container-1NXEtd {
     background-color: rgb(calc(var(--BGR) + 10), calc(var(--BGG) + 10), calc(var(--BGB) + 10));
 }
-.container-3w7J-x .channelNotice-3I83Cr {
+.container-1NXEtd .channelNotice-K4UfZY {
     border-bottom: 1px solid rgb(calc(var(--BGR) + 10), calc(var(--BGG) + 10), calc(var(--BGB) + 10));
 }
 

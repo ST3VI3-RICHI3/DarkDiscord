@@ -96,7 +96,7 @@ BG Accent: rgb(79, 84, 92)
     /*Server name panel*/
     background-color: rgb(calc(var(--BGR) + 7), calc(var(--BGG) + 7), calc(var(--BGB) + 7));
 }
-.clickable-vvKY2q .header-3OsQeK:hover, .selected-31Nl7x .header-3OsQeK {
+.clickable-vvKY2q .header-3OsQeK:hover, .selected-1GtAC5 .header-3OsQeK {
     background-color: rgb(calc(var(--BGR) + 15), calc(var(--BGG) + 15), calc(var(--BGB) + 15));
 }
 .bannerVisible-Vkyg1I {
@@ -137,32 +137,27 @@ BG Accent: rgb(79, 84, 92)
     background-color: rgb(calc(var(--BGR) + 5), calc(var(--BGG) + 5), calc(var(--BGB) + 5));
 }
 
-.card-4s8auQ, .settingCard-3w2mVL .cardContent-qqqwo8 {
-    background-color: rgb(calc(var(--BGR) + 15), calc(var(--BGG) + 15), calc(var(--BGB) + 15));
-    border-top-left-radius: 8px;
-    border-top-right-radius: 8px;
-}
-.titleContainer-2CXtJo, .stickyHeader-hH_ZLl {
+.scroller-3_YDR2 {
     background-color: rgb(calc(var(--BGR) + 5), calc(var(--BGG) + 5), calc(var(--BGB) + 5));
 }
 
 /* Server Boost Menu */
-.perksModal-fSYqOq {
+.perksModal-CLcR1c {
     background-color: rgb(calc(var(--BGR) + 10), calc(var(--BGG) + 10), calc(var(--BGB) + 10)) !important;
 }
-.perksModal-fSYqOq .ctaBar-2UsjF2 {
+.perksModal-CLcR1c .ctaBar-Nhk8yY {
     background-color: rgb(var(--BGR), var(--BGG), var(--BGB));
 }
-.perksModal-fSYqOq .ctaBar-2UsjF2 .giftAction-yhDLaW {
+.perksModal-CLcR1c .ctaBar-Nhk8yY .giftAction-ACtHBA {
     background-color: rgb(calc(var(--BGR) + 25), calc(var(--BGG) + 25), calc(var(--BGB) + 25)) !important;
 }
-.perksModal-fSYqOq .ctaBar-2UsjF2 .giftAction-yhDLaW:hover {
+.perksModal-CLcR1c .ctaBar-Nhk8yY .giftAction-ACtHBA:hover {
     background-color: rgb(calc(var(--BGR) + 40), calc(var(--BGG) + 40), calc(var(--BGB) + 40)) !important;
 }
-.perksModal-fSYqOq .barBackground-2EEiLw {
+.perksModal-CLcR1c .barBackground-unEPDT {
     background-color: rgb(var(--BGR), var(--BGG), var(--BGB)) !important;
 }
-.perksModal-fSYqOq .tierMarkerBackground-3q29am {
+.perksModal-CLcR1c .tierMarkerBackground-G8FoN4 {
     background-color: rgb(calc(var(--BGR) + 20), calc(var(--BGG) + 20), calc(var(--BGB) + 20));
 }
 
@@ -489,7 +484,7 @@ BG Accent: rgb(79, 84, 92)
 
 .info-1sUqUG>span:nth-of-type(3)::after {
     white-space: pre-wrap;
-    content: "\a Dark Discord V1.1.9";
+    content: "\a Dark Discord V1.1.95";
 }
 
 /* -------------------------*/
@@ -652,7 +647,7 @@ BG Accent: rgb(79, 84, 92)
 
 /* --WEBCAM POPOUT-- */
 
-[aria-label="Camera Unavailable"] .small-3iVZYw .content-1LAB8Z {
+[aria-label="Camera Unavailable"] .small-3iVZYw .content-2hZxGK {
     background-color: rgb(calc(var(--BGR) + 5), calc(var(--BGG) + 5), calc(var(--BGB) + 5));
 }
 [aria-label="Camera Unavailable"] .small-3iVZYw .flex-1xMQg5 {
@@ -664,7 +659,7 @@ BG Accent: rgb(79, 84, 92)
 
 /* --VOICE FULL POPOUT-- */
 
-[aria-label="Channel is full"] .header-1TKi98, [aria-label="Channel is full"] .content-1LAB8Z {
+[aria-label="Channel is full"] .header-1zd7se, [aria-label="Channel is full"] .content-2hZxGK {
     background: rgb(calc(var(--BGR) + 5), calc(var(--BGG) + 5), calc(var(--BGB) + 5));
 }
 
@@ -844,14 +839,13 @@ BG Accent: rgb(79, 84, 92)
 
 /* --Discover-- */
 
-.content-98HsJk .sidebar-2K8pFh {
-    background-color: rgb(calc(var(--BGR) + 3), calc(var(--BGG) + 3), calc(var(--BGB) + 3));
+.content-1SgpWY .sidebar-1tnWFu {
     background-color: rgb(calc(var(--BGR) + 3), calc(var(--BGG) + 3), calc(var(--BGB) + 3));
 }
-.content-98HsJk .pageWrapper-1PgVDX, .content-98HsJk .scroller-3Vjo4T {
+.content-1SgpWY .pageWrapper-2PwDoS, .content-1SgpWY .scroller-RfJjkV {
     background-color: rgb(var(--BGR), var(--BGG), var(--BGB));
 }
-.content-98HsJk .loaded-1eBnjq .card-3DjzTQ, .content-98HsJk .container-3WrP6S {
+.content-1SgpWY .loaded-igpmmx .card-2TuZPZ, .content-1SgpWY .container-1wv6C6 {
     background-color: rgb(calc(var(--BGR) + 15), calc(var(--BGG) + 15), calc(var(--BGB) + 15));
 }
 
@@ -861,11 +855,14 @@ BG Accent: rgb(79, 84, 92)
 
 .bd-error-modal .bd-error-modal-header {
     /*Addon Error modal*/
-    background-color: rgb(calc(var(--BGR) + 20), calc(var(--BGG) + 20), calc(var(--BGB) + 20));
+    background-color: rgb(calc(var(--BGR) + 15), calc(var(--BGG) + 15), calc(var(--BGB) + 15));
 }
 .bd-error-modal .bd-error-modal-content {
     background-color: rgb(calc(var(--BGR) + 5), calc(var(--BGG) + 5), calc(var(--BGB) + 5));
     border-radius: 0px;
+}
+.bd-error-modal .bd-error-modal-footer {
+    background-color: rgb(calc(var(--BGR) + 10), calc(var(--BGG) + 10), calc(var(--BGB) + 10));
 }
 
 .bd-addon-card {
@@ -886,7 +883,7 @@ BG Accent: rgb(79, 84, 92)
     background-color: rgb(calc(var(--BGR) + 10), calc(var(--BGG) + 10), calc(var(--BGB) + 10)) !important;
 }
 #MemberCount h2 {
-    padding-top: 15px;
+    padding-top: 17px !important;
 }
 
 .repoHeader-2KfNvH {
@@ -899,17 +896,17 @@ BG Accent: rgb(79, 84, 92)
     border-color: rgb(calc(var(--BGR) + 10), calc(var(--BGG) + 10), calc(var(--BGB) + 10));
 }
 
-.MLv2-menu-root .header-1TKi98, .MLv2-menu-root .content-1LAB8Z {
+.MLv2-menu-root .header-1zd7se, .MLv2-menu-root .content-2hZxGK {
     background-color: rgb(calc(var(--BGR) + 5), calc(var(--BGG) + 5), calc(var(--BGB) + 5));
 }
 
 .GuildAndFriendRemovalAlerts-styles-modal {
     background-color: rgb(calc(var(--BGR) + 10), calc(var(--BGG) + 10), calc(var(--BGB) + 10)) !important;
 }
-.GuildAndFriendRemovalAlerts-styles-modal .header-1TKi98 {
+.GuildAndFriendRemovalAlerts-styles-modal .header-1zd7se {
     background-color: rgb(calc(var(--BGR) + 10), calc(var(--BGG) + 10), calc(var(--BGB) + 10));
 }
-.GuildAndFriendRemovalAlerts-styles-modal .content-1LAB8Z {
+.GuildAndFriendRemovalAlerts-styles-modal .content-2hZxGK {
     background-color: rgb(calc(var(--BGR) + 5), calc(var(--BGG) + 5), calc(var(--BGB) + 5));
 }
 
@@ -929,17 +926,17 @@ BG Accent: rgb(79, 84, 92)
     background-color: rgb(calc(var(--BGR) + 5), calc(var(--BGG) + 5), calc(var(--BGB) + 5));
 }
 
-.guild-profile .topSection-y3p-_D {
+.guild-profile .topSection-13QKHs {
     background: linear-gradient(180deg, rgba(calc(var(--BGR) + 30), calc(var(--BGG) + 30), calc(var(--BGB) + 30), 1) 45%, rgba(calc(var(--BGR) + 5), calc(var(--BGG) + 5), calc(var(--BGB) + 5),1 ) 75%);
 }
-.guild-profile .body-r6_QPy {
+.guild-profile .body-1Ukv50 {
     background-color: rgb(calc(var(--BGR) + 5), calc(var(--BGG) + 5), calc(var(--BGB) + 5));
 }
 
 .Translator-modal {
     background-color: rgb(calc(var(--BGR) + 5), calc(var(--BGG) + 5), calc(var(--BGB) + 5)) !important;
 }
-.Translator-modal .select-2fjwPw {
+.Translator-modal .select-1Ia3hD {
     background-color: rgb(var(--BGR), var(--BGG), var(--BGB));
 }
 
