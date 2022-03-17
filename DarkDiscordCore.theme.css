@@ -564,15 +564,15 @@ BG Accent: rgb(79, 84, 92)
 
 /* --PINS POPOUT-- */
 
-[aria-label="Pinned messages"] .messagesPopoutWrap-1MQ1bW .header-ykumBX, [aria-label="Pinned messages"] .messagesPopoutWrap-1MQ1bW .footer-1kmXd4 {
+[aria-label="Pinned Messages"] .messagesPopoutWrap-3zryHW .header-1w9Q93 {
     background-color: rgb(calc(var(--BGR) + 15), calc(var(--BGG) + 15), calc(var(--BGB) + 15));
 }
 
-[aria-label="Pinned messages"] .messagesPopoutWrap-1MQ1bW .messagesPopout-24nkyi {
+[aria-label="Pinned Messages"] .messagesPopoutWrap-3zryHW .messagesPopout-eVzQcI {
     background-color: rgb(calc(var(--BGR) + 5), calc(var(--BGG) + 5), calc(var(--BGB) + 5));
 }
 
-[aria-label="Pinned messages"] .messagesPopoutWrap-1MQ1bW .messageGroupCozy-2iY6cT {
+[aria-label="Pinned Messages"] .messagesPopoutWrap-3zryHW .messageGroupCozy-3v_RqN {
     background-color: rgb(var(--BGR), var(--BGG), var(--BGB));
 }
 

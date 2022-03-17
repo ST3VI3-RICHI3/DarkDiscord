@@ -441,6 +441,22 @@
 
 /* ------------------------ */
 
+/* --PINS POPOUT-- */
+
+[aria-label="Pinned messages"] .messagesPopoutWrap-1MQ1bW .header-ykumBX, [aria-label="Pinned messages"] .messagesPopoutWrap-1MQ1bW .footer-1kmXd4 {
+    background-color: rgb(calc(var(--BGR) + 15), calc(var(--BGG) + 15), calc(var(--BGB) + 15));
+}
+
+[aria-label="Pinned messages"] .messagesPopoutWrap-1MQ1bW .messagesPopout-24nkyi {
+    background-color: rgb(calc(var(--BGR) + 5), calc(var(--BGG) + 5), calc(var(--BGB) + 5));
+}
+
+[aria-label="Pinned messages"] .messagesPopoutWrap-1MQ1bW .messageGroupCozy-2iY6cT {
+    background-color: rgb(var(--BGR), var(--BGG), var(--BGB));
+}
+
+/* --------------- */
+
 /* Search Styling */
 .searchHeader-2XoQg7 {
     background-color: rgb(calc(var(--BGR) + 10), calc(var(--BGG) + 10), calc(var(--BGB) + 10));
