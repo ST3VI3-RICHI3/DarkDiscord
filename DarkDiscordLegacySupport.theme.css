@@ -293,6 +293,22 @@
 
 /* -------- */
 
+/* --SERVER RULES-- */
+
+.container-19nk2r .guildSidebar-2OCzWB {
+    background-color: rgb(calc(var(--BGR) + 15), calc(var(--BGG) + 15), calc(var(--BGB) + 15));
+}
+
+.container-19nk2r .modal-f02hVt {
+    background-color: rgb(calc(var(--BGR) + 5), calc(var(--BGG) + 5), calc(var(--BGB) + 5));
+}
+
+.container-19nk2r .modal-f02hVt .formFieldWrapper-malor5 {
+    background-color: rgb(var(--BGR), var(--BGG), var(--BGB));
+}
+
+/* ---------------- */
+
 /* --DM AREA-- */
 
 /*Find or start a conversation*/

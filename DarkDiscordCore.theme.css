@@ -798,15 +798,15 @@ BG Accent: rgb(79, 84, 92)
 
 /* --SERVER RULES-- */
 
-.container-19nk2r .guildSidebar-2OCzWB {
+.container-2E0bff .guildSidebar-UHnQqs {
     background-color: rgb(calc(var(--BGR) + 15), calc(var(--BGG) + 15), calc(var(--BGB) + 15));
 }
 
-.container-19nk2r .modal-f02hVt {
+.container-2E0bff .modal-2TOYtq {
     background-color: rgb(calc(var(--BGR) + 5), calc(var(--BGG) + 5), calc(var(--BGB) + 5));
 }
 
-.container-19nk2r .modal-f02hVt .formFieldWrapper-malor5 {
+.container-2E0bff .modal-2TOYtq .formFieldWrapper-2LV3S6 {
     background-color: rgb(var(--BGR), var(--BGG), var(--BGB));
 }
 
