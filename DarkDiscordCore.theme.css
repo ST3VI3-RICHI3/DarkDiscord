@@ -482,7 +482,7 @@ BG Accent: rgb(79, 84, 92)
     background-color: rgb(var(--BGR), var(--BGG), calc(--BGB));
 }
 
-.info-1sUqUG>span:nth-of-type(3)::after {
+.info-3pQQBb>span:nth-of-type(3)::after {
     white-space: pre-wrap;
     content: "\a Dark Discord V1.1.97";
 }
@@ -564,7 +564,7 @@ BG Accent: rgb(79, 84, 92)
 
 /* --PINS POPOUT-- */
 
-[aria-label="Pinned Messages"] .messagesPopoutWrap-3zryHW .header-1w9Q93 {
+[aria-label="Pinned Messages"] .messagesPopoutWrap-3zryHW .header-1w9Q93, [aria-label="Pinned Messages"] .messagesPopoutWrap-3zryHW .footer-5ji8u1 {
     background-color: rgb(calc(var(--BGR) + 15), calc(var(--BGG) + 15), calc(var(--BGB) + 15));
 }
 
