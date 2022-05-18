@@ -23,6 +23,14 @@ BG Accent: rgb(79, 84, 92)
     --text-normal: var(--TextColor);
 }
 
+/* --APP BACKGROUND-- */
+
+.appMount-2yBXZl {
+    background-color: rgb(var(--BGR), var(--BGG), var(--BGB)) !important;
+}
+
+/* ------------------ */
+
 /* --TITLE BAR-- */
 
 .typeWindows-2-g3UY {
