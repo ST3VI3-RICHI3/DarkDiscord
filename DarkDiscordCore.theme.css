@@ -305,6 +305,11 @@ BG Accent: rgb(79, 84, 92)
     background-color: rgb(var(--BGR),var(--BGG),var(--BGB)) !important;
 }
 
+/*Stream PIP*/
+.pictureInPicture-1GQX91 .videoControls-e2Ogs3 {
+    background-color: transparent;
+}
+
 /* -------- */
 
 /* --QUICK SWITCHER-- */
