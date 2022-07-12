@@ -497,7 +497,7 @@ BG Accent: rgb(79, 84, 92)
 
 .info-3pQQBb>span:nth-of-type(3)::after {
     white-space: pre-wrap;
-    content: "\a Dark Discord V1.1.97";
+    content: "\a Dark Discord V1.1.971";
 }
 
 /* -------------------------*/
@@ -792,18 +792,18 @@ BG Accent: rgb(79, 84, 92)
 
 /* --NITRO GIFT MENU-- */
 
-.shaker-35cz7E .flex-1xMQg5 .panningAnimation-38NjY9, .shaker-35cz7E .header-RSCE0X {
+.shaker-bevRrZ .flex-2S1XBF .panningAnimation-1pMfvn, .shaker-bevRrZ .header-2hjw1J {
     background-color: rgb(var(--BGR), var(--BGG), var(--BGB));
     background-image: none;
 }
-.shaker-35cz7E .flex-1xMQg5 .tier2Background-gCUPNQ {
+.shaker-bevRrZ .flex-2S1XBF .tier2HeaderBackground-2XINxm {
     z-index: 1;
 }
-.shaker-35cz7E .contentWrapper-2H52F3 {
+.shaker-bevRrZ .content-2eQb8J, .shaker-bevRrZ .wrapper-38Ds8r {
     background-color: rgb(calc(var(--BGR) + 5), calc(var(--BGG) + 5), calc(var(--BGB) + 5));
 }
 
-.shaker-35cz7E .paymentSourceWrapper-2dIzE4 .lookFilled-22uAsw, .shaker-35cz7E .invoice-28DmWy {
+.shaker-bevRrZ .paymentSourceWrapper-2Z7bt2 .lookFilled-1GseHa, .shaker-bevRrZ .invoice-2Y7qqb {
     background-color: rgb(var(--BGR), var(--BGG), var(--BGB));
 }
 
