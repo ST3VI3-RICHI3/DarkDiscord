@@ -26,9 +26,9 @@
     margin-top: 0px;
 }
 
-.info-1sUqUG>span:nth-of-type(3):hover:after {
+.info-3pQQBb>span:nth-of-type(3):hover:after {
     white-space: pre-wrap;
-    content: "\a Dark Discord Upd 8 (Experimental)";
+    content: "\a Dark Discord Upd 9 (Experimental)";
 }
 
 /* --------------*/
@@ -44,6 +44,12 @@
 [aria-label="User Settings"]:hover .contents-3ca1mk {
     transform: rotate(0deg);
     animation: spin 1s linear 0.5s infinite;
+}
+
+/* Remove listen along info button */
+.listeningAlong-6YvYsc [aria-label="What's this?"] {
+    visibility: hidden;
+    width: 0px;
 }
 
 /* ----------- */
