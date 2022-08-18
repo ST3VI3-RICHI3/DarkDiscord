@@ -270,9 +270,9 @@ BG Accent: rgb(79, 84, 92)
 /* Attatchments */
 .embedWrapper-1MtIDg {
     background-color: rgb(calc(var(--BGR) + 10), calc(var(--BGG) + 10), calc(var(--BGB) + 10));
-    border-color: rgb(calc(var(--BGR) + 5), calc(var(--BGG) + 5), calc(var(--BGB) + 5))
+    border-color: rgb(calc(var(--BGR) + 5), calc(var(--BGG) + 5), calc(var(--BGB) + 5));
+    max-width: max-content;
 }
-
 /* Image / Video Background */
 .chatContent-3KubbW .imageWrapper-oMkQl4, .chatContent-3KubbW .imageWrapper-oMkQl4 .video-8eMOth {
     background-color: rgb(var(--BGR),var(--BGG),var(--BGB));
