@@ -468,6 +468,13 @@ BG Accent: rgb(79, 84, 92)
 .scroller-WSmht3 {
     background-color: rgb(calc(var(--BGR) + 3), calc(var(--BGG) + 3), calc(var(--BGB) + 3));
 }
+/* In DM User Profiles */
+.userProfileOuterUnthemed-2b2rsv .scrollerBase-_bVAAt {
+    background-color: rgb(calc(var(--BGR) + 3), calc(var(--BGG) + 3), calc(var(--BGB) + 3));
+}
+.userProfileOuterUnthemed-2b2rsv .scrollerBase-_bVAAt .userPanelOverlayBackground-3xwDMp {
+    background-color: rgb(calc(var(--BGR) + 15), calc(var(--BGG) + 15), calc(var(--BGB) + 15));
+}
 /* ----------- */
 
 /* --SETTINGS PAGE-- */
