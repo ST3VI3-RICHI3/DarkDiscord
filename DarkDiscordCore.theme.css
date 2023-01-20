@@ -135,7 +135,7 @@ BG Accent: rgb(79, 84, 92)
     background-color: rgb(calc(var(--BGR) + 25), calc(var(--BGG) + 25), calc(var(--BGB) + 25));
 }
 
-.container-2o3qEW, .members-3WRCEx, .container-2o3qEW, .member-2gU6Ar, .members-3WRCEx>div, .membersWrap-3NUR2t {
+.container-2o3qEW, .members-3WRCEx, .members-3WRCEx>div, .membersWrap-3NUR2t {
     /*"Server Members panel*/
     background-color: rgb(calc(var(--BGR) + 3), calc(var(--BGG) + 3), calc(var(--BGB) + 3));
 }
@@ -469,10 +469,10 @@ BG Accent: rgb(79, 84, 92)
     background-color: rgb(calc(var(--BGR) + 3), calc(var(--BGG) + 3), calc(var(--BGB) + 3));
 }
 /* In DM User Profiles */
-.userProfileOuterUnthemed-2b2rsv .scrollerBase-_bVAAt {
+.profilePanel-2PWEok .userProfileOuterUnthemed-2b2rsv .scrollerBase-_bVAAt {
     background-color: rgb(calc(var(--BGR) + 3), calc(var(--BGG) + 3), calc(var(--BGB) + 3));
 }
-.userProfileOuterUnthemed-2b2rsv .scrollerBase-_bVAAt .userPanelOverlayBackground-3xwDMp {
+.profilePanel-2PWEok .userProfileOuterUnthemed-2b2rsv .scrollerBase-_bVAAt .userPanelOverlayBackground-3xwDMp {
     background-color: rgb(calc(var(--BGR) + 15), calc(var(--BGG) + 15), calc(var(--BGB) + 15));
 }
 /* ----------- */
