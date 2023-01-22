@@ -21,6 +21,8 @@ BG Accent: rgb(79, 84, 92)
     --TextColor: rgb(255, 255, 255);
     
     --text-normal: var(--TextColor);
+
+    --versionString: "\a Dark Discord V1.1.98";
 }
 
 /* --APP BACKGROUND-- */
@@ -515,7 +517,7 @@ BG Accent: rgb(79, 84, 92)
 
 .info-3pQQBb>span:nth-of-type(3)::after {
     white-space: pre-wrap;
-    content: "\a Dark Discord V1.1.974";
+    content: var(--versionString);
 }
 
 /* -------------------------*/
