@@ -440,7 +440,7 @@ BG Accent: rgb(79, 84, 92)
 /* --MESSAGE REQUESTS-- */
 
 .content-1SgpWY .container-2YMsb4 .content-1jQy2l {
-    background-color: rgb(calc(var(--BGR) + 10), calc(var(--BGG) + 0), calc(var(--BGB) + 0));
+    background-color: rgb(calc(var(--BGR) + 0), calc(var(--BGG) + 0), calc(var(--BGB) + 0));
 }
 .content-1SgpWY .container-2YMsb4 {
     border-radius: 0px;
