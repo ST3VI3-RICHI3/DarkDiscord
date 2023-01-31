@@ -22,7 +22,7 @@ BG Accent: rgb(79, 84, 92)
     
     --text-normal: var(--TextColor);
 
-    --versionString: "\a Dark Discord V1.1.98";
+    --versionString: "\a Dark Discord V1.1.99 HOTFIX 1";
 }
 
 /* --APP BACKGROUND-- */
@@ -78,7 +78,7 @@ BG Accent: rgb(79, 84, 92)
     background: rgb(calc(var(--BGR) + 25), calc(var(--BGG) + 25), calc(var(--BGB) + 25));
 }
 
-.scroller-3X7KbA {
+.guilds-2JjMmN .scroller-3X7KbA {
     /*Server list*/
     background-color: rgb(calc(var(--BGR) + 10), calc(var(--BGG) + 10), calc(var(--BGB) + 10));
 }
@@ -213,19 +213,19 @@ BG Accent: rgb(79, 84, 92)
 }
 
 /*Message typing area*/
-.scrollableContainer-15eg7h {
+.channelTextArea-1FufC0 .scrollableContainer-15eg7h {
     background-color: rgb(calc(var(--BGR) + 20), calc(var(--BGG) + 20), calc(var(--BGB) + 20));
 }
-.form-3gdLxP:before{
+.channelTextArea-1FufC0 .form-3gdLxP:before{
     visibility: hidden;
 }
-.attachedBars-2BCP3l, .attachedBars-2BCP3l .replyBar-1oi75v {
+.channelTextArea-1FufC0 .attachedBars-2BCP3l, .attachedBars-2BCP3l .replyBar-1oi75v {
     background-color: rgb(calc(var(--BGR) + 10), calc(var(--BGG) + 10), calc(var(--BGB) + 10));
 }
-.jumpToPresentBar-1cEnH0 {
+.channelTextArea-1FufC0 .jumpToPresentBar-1cEnH0 {
     background-color: rgb(calc(var(--BGR) + 10), calc(var(--BGG) + 10), calc(var(--BGB) + 10));
 }
-.threadSuggestionBar-2ufK2Z {
+.channelTextArea-1FufC0 .threadSuggestionBar-2ufK2Z {
     background-color: rgb(calc(var(--BGR) + 10), calc(var(--BGG) + 10), calc(var(--BGB) + 10));
 }
 
@@ -478,7 +478,7 @@ BG Accent: rgb(79, 84, 92)
     background-color: rgb(calc(var(--BGR) + 10), calc(var(--BGG) + 10), calc(var(--BGB) + 10));
 }
 /*DM List*/
-.scroller-WSmht3 {
+.privateChannels-oVe7HL .scroller-WSmht3 {
     background-color: rgb(calc(var(--BGR) + 3), calc(var(--BGG) + 3), calc(var(--BGB) + 3));
 }
 /* In DM User Profiles */
@@ -525,7 +525,7 @@ BG Accent: rgb(79, 84, 92)
 /*-- User / Voice panel-- */
 
 /* Voice Connected Panel */
-.panels-3wFtMD {
+.panels-3wFtMD, .panels-3wFtMD .container-YkUktl {
     background-color: rgb(calc(var(--BGR) + 6), calc(var(--BGG) + 6), calc(var(--BGB) + 5));
 }
 
