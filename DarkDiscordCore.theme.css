@@ -525,8 +525,8 @@ BG Accent: rgb(79, 84, 92)
 /*-- User / Voice panel-- */
 
 /* Voice Connected Panel */
-.panels-3wFtMD, .panels-3wFtMD .container-1zzFcN, .panels-3wFtMD .container-6sXIoE, .panels-3wFtMD .container-YkUktl {
-    background-color: rgb(calc(var(--BGR) + 6), calc(var(--BGG) + 6), calc(var(--BGB) + 5));
+.panels-3wFtMD, .panels-3wFtMD>div {
+    background-color: rgb(calc(var(--BGR) + 6), calc(var(--BGG) + 6), calc(var(--BGB) + 5)) !important;
 }
 .panels-3wFtMD .container-1zzFcN, .panels-3wFtMD .container-6sXIoE {
     border-bottom: 1px solid rgb(calc(var(--BGR) + 20), calc(var(--BGG) + 20), calc(var(--BGB) + 20));
