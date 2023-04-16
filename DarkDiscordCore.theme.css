@@ -22,7 +22,7 @@ BG Accent: rgb(79, 84, 92)
     
     --text-normal: var(--TextColor);
 
-    --versionString: "\a Dark Discord V1.1.99 HOTFIX 3";
+    --versionString: "\a Dark Discord V1.1.99 HOTFIX 3.1";
 }
 
 /* --APP BACKGROUND-- */
@@ -225,7 +225,7 @@ BG Accent: rgb(79, 84, 92)
 .channelTextArea-1FufC0 .jumpToPresentBar-1cEnH0 {
     background-color: rgb(calc(var(--BGR) + 10), calc(var(--BGG) + 10), calc(var(--BGB) + 10));
 }
-.channelTextArea-1FufC0 .threadSuggestionBar-2ufK2Z {
+.channelTextArea-1FufC0 .threadSuggestionBar-3ExSyc {
     background-color: rgb(calc(var(--BGR) + 10), calc(var(--BGG) + 10), calc(var(--BGB) + 10));
 }
 
