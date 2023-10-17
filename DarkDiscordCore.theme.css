@@ -35,7 +35,7 @@ BG Accent: rgb(79, 84, 92)
 
 /* --TITLE BAR-- */
 
-.typeWindows-2-g3UY {
+.typeWindows-3ILlhq {
     margin-top: -4px;
     padding-top: 8px;
     background-color: rgb(var(--BGR), var(--BGG), var(--BGB));
@@ -137,7 +137,7 @@ BG Accent: rgb(79, 84, 92)
     background-color: rgb(calc(var(--BGR) + 25), calc(var(--BGG) + 25), calc(var(--BGB) + 25));
 }
 
-.container-2o3qEW, .members-3WRCEx, .container-2o3qEW, .member-2gU6Ar, .members-3WRCEx>div, .membersWrap-3NUR2t {
+.container-2o3qEW, .members-2y1nVj, .container-2o3qEW, .member-2gU6Ar, .members-2y1nVj>div, .membersWrap-3NUR2t {
     /*"Server Members panel*/
     background-color: rgb(calc(var(--BGR) + 3), calc(var(--BGG) + 3), calc(var(--BGB) + 3));
 }
@@ -176,7 +176,7 @@ BG Accent: rgb(79, 84, 92)
 /* --CHAT-- */
 
 /*Main chat*/
-.chatContent-3KubbW, .wrapper-3HVHpV, .wrapper-3HVHpV>div {
+.chatContent-2O4SXb, .wrapper-3HVHpV, .wrapper-3HVHpV>div {
     background-color: rgb(var(--BGR),var(--BGG),var(--BGB));
 }
 /*Main chat text*/
@@ -190,7 +190,7 @@ BG Accent: rgb(79, 84, 92)
 }
 
 /* Code block */
-.chatContent-3KubbW code {
+.chatContent-2O4SXb code {
     background-color: rgb(calc(var(--BGR) + 15), calc(var(--BGG) + 15), calc(var(--BGB) + 15));
 }
 
@@ -213,10 +213,10 @@ BG Accent: rgb(79, 84, 92)
 }
 
 /*Message typing area*/
-.channelTextArea-1FufC0 .scrollableContainer-15eg7h {
+.channelTextArea-1deLlK .scrollableContainer-15eg7h {
     background-color: rgb(calc(var(--BGR) + 20), calc(var(--BGG) + 20), calc(var(--BGB) + 20));
 }
-.chatContent-3KubbW .form-3gdLxP:before{
+.chatContent-2O4SXb .form-3qe0Ni:before{
     visibility: hidden;
 }
 .channelTextArea-1FufC0 .attachedBars-2BCP3l, .attachedBars-2BCP3l .replyBar-1oi75v {
@@ -276,7 +276,7 @@ BG Accent: rgb(79, 84, 92)
     max-width: max-content;
 }
 /* Image / Video Background */
-.chatContent-3KubbW .imageWrapper-oMkQl4, .chatContent-3KubbW .imageWrapper-oMkQl4 .video-8eMOth {
+.chatContent-2O4SXb .imageWrapper-oMkQl4, .chatContent-2O4SXb .imageWrapper-oMkQl4 .video-8eMOth {
     background-color: rgb(var(--BGR),var(--BGG),var(--BGB));
 }
 
@@ -525,10 +525,10 @@ BG Accent: rgb(79, 84, 92)
 /*-- User / Voice panel-- */
 
 /* Voice Connected Panel */
-.panels-3wFtMD, .panels-3wFtMD .container-1zzFcN, .panels-3wFtMD .panel-2ZFCRb, .panels-3wFtMD .container-YkUktl {
+.panels-3wFtMD, .panels-3wFtMD .container-1CH86i, .panels-3wFtMD .container-2NLBJg, .panels-3wFtMD .container-YkUktl {
     background-color: rgb(calc(var(--BGR) + 6), calc(var(--BGG) + 6), calc(var(--BGB) + 5)) !important;
 }
-.panels-3wFtMD .container-1zzFcN, .panels-3wFtMD .container-6sXIoE, .panels-3wFtMD .panel-2ZFCRb {
+.panels-3wFtMD .container-6sXIoE, .panels-3wFtMD .container-2NLBJg {
     border-bottom: 1px solid rgb(calc(var(--BGR) + 20), calc(var(--BGG) + 20), calc(var(--BGB) + 20));
 }
 
